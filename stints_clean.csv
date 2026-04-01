@@ -1,0 +1,1199 @@
+GP,Driver,Stint,Compound,StintLength
+Australian Grand Prix,ALB,1,MEDIUM,6
+Australian Grand Prix,ALO,1,MEDIUM,8
+Australian Grand Prix,ALO,2,HARD,46
+Australian Grand Prix,BOT,1,SOFT,1
+Australian Grand Prix,BOT,2,HARD,6
+Australian Grand Prix,BOT,3,HARD,52
+Australian Grand Prix,DEV,1,HARD,7
+Australian Grand Prix,DEV,2,MEDIUM,37
+Australian Grand Prix,DEV,3,SOFT,8
+Australian Grand Prix,GAS,1,SOFT,7
+Australian Grand Prix,GAS,2,HARD,46
+Australian Grand Prix,HAM,1,MEDIUM,7
+Australian Grand Prix,HAM,2,HARD,46
+Australian Grand Prix,HUL,1,MEDIUM,7
+Australian Grand Prix,HUL,2,HARD,46
+Australian Grand Prix,MAG,1,MEDIUM,7
+Australian Grand Prix,MAG,3,HARD,45
+Australian Grand Prix,NOR,1,MEDIUM,7
+Australian Grand Prix,NOR,2,HARD,46
+Australian Grand Prix,OCO,1,SOFT,1
+Australian Grand Prix,OCO,2,HARD,6
+Australian Grand Prix,OCO,3,HARD,53
+Australian Grand Prix,PER,1,HARD,1
+Australian Grand Prix,PER,2,MEDIUM,1
+Australian Grand Prix,PER,3,HARD,5
+Australian Grand Prix,PER,4,HARD,47
+Australian Grand Prix,PIA,1,MEDIUM,7
+Australian Grand Prix,PIA,2,HARD,46
+Australian Grand Prix,RUS,1,MEDIUM,7
+Australian Grand Prix,RUS,3,HARD,10
+Australian Grand Prix,SAI,1,MEDIUM,7
+Australian Grand Prix,SAI,3,HARD,47
+Australian Grand Prix,SAR,1,HARD,1
+Australian Grand Prix,SAR,2,MEDIUM,1
+Australian Grand Prix,SAR,3,HARD,6
+Australian Grand Prix,SAR,4,MEDIUM,28
+Australian Grand Prix,SAR,5,HARD,24
+Australian Grand Prix,STR,1,MEDIUM,8
+Australian Grand Prix,STR,2,HARD,46
+Australian Grand Prix,TSU,1,MEDIUM,7
+Australian Grand Prix,TSU,2,HARD,46
+Australian Grand Prix,VER,1,MEDIUM,7
+Australian Grand Prix,VER,2,HARD,46
+Australian Grand Prix,ZHO,1,SOFT,1
+Australian Grand Prix,ZHO,2,HARD,6
+Australian Grand Prix,ZHO,3,HARD,53
+Austrian Grand Prix,ALB,1,MEDIUM,2
+Austrian Grand Prix,ALB,2,MEDIUM,14
+Austrian Grand Prix,ALB,3,HARD,27
+Austrian Grand Prix,ALB,4,HARD,30
+Austrian Grand Prix,ALO,1,HARD,2
+Austrian Grand Prix,ALO,2,HARD,15
+Austrian Grand Prix,ALO,3,MEDIUM,29
+Austrian Grand Prix,ALO,4,MEDIUM,27
+Austrian Grand Prix,BOT,1,HARD,2
+Austrian Grand Prix,BOT,2,HARD,21
+Austrian Grand Prix,BOT,3,MEDIUM,19
+Austrian Grand Prix,BOT,4,HARD,30
+Austrian Grand Prix,DEV,1,MEDIUM,2
+Austrian Grand Prix,DEV,2,MEDIUM,12
+Austrian Grand Prix,DEV,3,HARD,25
+Austrian Grand Prix,DEV,4,MEDIUM,33
+Austrian Grand Prix,GAS,1,MEDIUM,2
+Austrian Grand Prix,GAS,2,MEDIUM,14
+Austrian Grand Prix,GAS,3,HARD,30
+Austrian Grand Prix,GAS,4,MEDIUM,27
+Austrian Grand Prix,HAM,1,MEDIUM,2
+Austrian Grand Prix,HAM,2,MEDIUM,14
+Austrian Grand Prix,HAM,3,HARD,28
+Austrian Grand Prix,HAM,4,MEDIUM,29
+Austrian Grand Prix,HUL,1,MEDIUM,5
+Austrian Grand Prix,HUL,2,MEDIUM,14
+Austrian Grand Prix,HUL,3,HARD,1
+Austrian Grand Prix,LEC,1,MEDIUM,2
+Austrian Grand Prix,LEC,2,MEDIUM,15
+Austrian Grand Prix,LEC,3,MEDIUM,32
+Austrian Grand Prix,LEC,4,HARD,24
+Austrian Grand Prix,MAG,1,HARD,1
+Austrian Grand Prix,MAG,2,MEDIUM,1
+Austrian Grand Prix,MAG,3,HARD,31
+Austrian Grand Prix,MAG,4,HARD,37
+Austrian Grand Prix,NOR,1,MEDIUM,2
+Austrian Grand Prix,NOR,2,MEDIUM,14
+Austrian Grand Prix,NOR,3,HARD,27
+Austrian Grand Prix,NOR,4,HARD,30
+Austrian Grand Prix,OCO,1,MEDIUM,2
+Austrian Grand Prix,OCO,2,MEDIUM,14
+Austrian Grand Prix,OCO,3,HARD,26
+Austrian Grand Prix,OCO,4,HARD,30
+Austrian Grand Prix,PER,1,MEDIUM,2
+Austrian Grand Prix,PER,2,MEDIUM,25
+Austrian Grand Prix,PER,3,MEDIUM,25
+Austrian Grand Prix,PER,4,HARD,21
+Austrian Grand Prix,PIA,1,MEDIUM,2
+Austrian Grand Prix,PIA,2,MEDIUM,14
+Austrian Grand Prix,PIA,3,HARD,8
+Austrian Grand Prix,PIA,4,HARD,19
+Austrian Grand Prix,PIA,5,MEDIUM,29
+Austrian Grand Prix,RUS,1,MEDIUM,2
+Austrian Grand Prix,RUS,2,MEDIUM,14
+Austrian Grand Prix,RUS,3,HARD,27
+Austrian Grand Prix,RUS,4,MEDIUM,30
+Austrian Grand Prix,SAI,1,MEDIUM,2
+Austrian Grand Prix,SAI,2,MEDIUM,15
+Austrian Grand Prix,SAI,3,MEDIUM,30
+Austrian Grand Prix,SAI,4,HARD,26
+Austrian Grand Prix,SAR,1,MEDIUM,2
+Austrian Grand Prix,SAR,2,MEDIUM,14
+Austrian Grand Prix,SAR,3,HARD,29
+Austrian Grand Prix,SAR,4,HARD,27
+Austrian Grand Prix,STR,1,MEDIUM,2
+Austrian Grand Prix,STR,2,MEDIUM,15
+Austrian Grand Prix,STR,3,HARD,21
+Austrian Grand Prix,STR,4,HARD,18
+Austrian Grand Prix,STR,5,MEDIUM,17
+Austrian Grand Prix,TSU,1,MEDIUM,1
+Austrian Grand Prix,TSU,2,HARD,1
+Austrian Grand Prix,TSU,3,HARD,22
+Austrian Grand Prix,TSU,4,HARD,20
+Austrian Grand Prix,TSU,5,MEDIUM,27
+Austrian Grand Prix,VER,1,MEDIUM,2
+Austrian Grand Prix,VER,2,MEDIUM,24
+Austrian Grand Prix,VER,3,HARD,25
+Austrian Grand Prix,VER,4,MEDIUM,20
+Austrian Grand Prix,VER,5,SOFT,5
+Austrian Grand Prix,ZHO,1,MEDIUM,2
+Austrian Grand Prix,ZHO,2,MEDIUM,8
+Austrian Grand Prix,ZHO,3,HARD,30
+Austrian Grand Prix,ZHO,4,HARD,32
+Azerbaijan Grand Prix,ALB,1,MEDIUM,7
+Azerbaijan Grand Prix,ALB,2,HARD,44
+Azerbaijan Grand Prix,ALO,1,MEDIUM,10
+Azerbaijan Grand Prix,ALO,2,HARD,40
+Azerbaijan Grand Prix,BOT,1,MEDIUM,6
+Azerbaijan Grand Prix,BOT,2,HARD,6
+Azerbaijan Grand Prix,BOT,3,HARD,22
+Azerbaijan Grand Prix,BOT,4,MEDIUM,16
+Azerbaijan Grand Prix,DEV,1,HARD,9
+Azerbaijan Grand Prix,GAS,1,MEDIUM,5
+Azerbaijan Grand Prix,GAS,2,HARD,18
+Azerbaijan Grand Prix,GAS,3,HARD,28
+Azerbaijan Grand Prix,HAM,1,MEDIUM,9
+Azerbaijan Grand Prix,HAM,2,HARD,42
+Azerbaijan Grand Prix,HUL,1,HARD,49
+Azerbaijan Grand Prix,HUL,2,SOFT,1
+Azerbaijan Grand Prix,LEC,1,MEDIUM,10
+Azerbaijan Grand Prix,LEC,2,HARD,40
+Azerbaijan Grand Prix,MAG,1,MEDIUM,10
+Azerbaijan Grand Prix,MAG,2,HARD,41
+Azerbaijan Grand Prix,NOR,1,MEDIUM,9
+Azerbaijan Grand Prix,NOR,2,HARD,42
+Azerbaijan Grand Prix,OCO,1,HARD,50
+Azerbaijan Grand Prix,OCO,2,SOFT,1
+Azerbaijan Grand Prix,PER,1,MEDIUM,10
+Azerbaijan Grand Prix,PER,2,HARD,40
+Azerbaijan Grand Prix,PIA,1,MEDIUM,8
+Azerbaijan Grand Prix,PIA,2,HARD,43
+Azerbaijan Grand Prix,RUS,1,MEDIUM,10
+Azerbaijan Grand Prix,RUS,2,HARD,38
+Azerbaijan Grand Prix,RUS,3,SOFT,2
+Azerbaijan Grand Prix,SAI,1,MEDIUM,10
+Azerbaijan Grand Prix,SAI,2,HARD,40
+Azerbaijan Grand Prix,SAR,1,MEDIUM,8
+Azerbaijan Grand Prix,SAR,2,HARD,43
+Azerbaijan Grand Prix,STR,1,MEDIUM,10
+Azerbaijan Grand Prix,STR,2,HARD,43
+Azerbaijan Grand Prix,TSU,1,MEDIUM,8
+Azerbaijan Grand Prix,TSU,2,HARD,43
+Azerbaijan Grand Prix,VER,1,MEDIUM,10
+Azerbaijan Grand Prix,VER,2,HARD,41
+Azerbaijan Grand Prix,ZHO,1,MEDIUM,10
+Azerbaijan Grand Prix,ZHO,2,HARD,25
+Bahrain Grand Prix,ALB,1,SOFT,11
+Bahrain Grand Prix,ALB,2,SOFT,15
+Bahrain Grand Prix,ALB,3,HARD,14
+Bahrain Grand Prix,ALB,4,SOFT,17
+Bahrain Grand Prix,ALO,1,SOFT,17
+Bahrain Grand Prix,ALO,2,HARD,20
+Bahrain Grand Prix,ALO,3,HARD,23
+Bahrain Grand Prix,BOT,1,SOFT,11
+Bahrain Grand Prix,BOT,2,HARD,18
+Bahrain Grand Prix,BOT,3,HARD,28
+Bahrain Grand Prix,DEV,1,SOFT,11
+Bahrain Grand Prix,DEV,2,HARD,16
+Bahrain Grand Prix,DEV,3,HARD,29
+Bahrain Grand Prix,GAS,1,SOFT,9
+Bahrain Grand Prix,GAS,2,HARD,16
+Bahrain Grand Prix,GAS,3,HARD,15
+Bahrain Grand Prix,GAS,4,SOFT,17
+Bahrain Grand Prix,HAM,1,SOFT,15
+Bahrain Grand Prix,HAM,2,HARD,18
+Bahrain Grand Prix,HAM,3,HARD,27
+Bahrain Grand Prix,HUL,1,SOFT,14
+Bahrain Grand Prix,HUL,2,HARD,15
+Bahrain Grand Prix,HUL,3,HARD,14
+Bahrain Grand Prix,HUL,4,SOFT,19
+Bahrain Grand Prix,LEC,1,SOFT,13
+Bahrain Grand Prix,LEC,2,HARD,20
+Bahrain Grand Prix,LEC,3,HARD,6
+Bahrain Grand Prix,MAG,1,HARD,15
+Bahrain Grand Prix,MAG,2,HARD,14
+Bahrain Grand Prix,MAG,3,SOFT,11
+Bahrain Grand Prix,MAG,4,SOFT,16
+Bahrain Grand Prix,NOR,1,SOFT,10
+Bahrain Grand Prix,NOR,2,HARD,7
+Bahrain Grand Prix,NOR,3,SOFT,13
+Bahrain Grand Prix,NOR,4,MEDIUM,10
+Bahrain Grand Prix,NOR,5,HARD,10
+Bahrain Grand Prix,NOR,6,SOFT,11
+Bahrain Grand Prix,NOR,7,SOFT,7
+Bahrain Grand Prix,OCO,1,SOFT,15
+Bahrain Grand Prix,OCO,2,HARD,3
+Bahrain Grand Prix,OCO,3,HARD,20
+Bahrain Grand Prix,OCO,4,HARD,9
+Bahrain Grand Prix,PER,1,SOFT,20
+Bahrain Grand Prix,PER,2,SOFT,19
+Bahrain Grand Prix,PER,3,HARD,23
+Bahrain Grand Prix,PIA,1,SOFT,13
+Bahrain Grand Prix,RUS,1,SOFT,16
+Bahrain Grand Prix,RUS,2,HARD,18
+Bahrain Grand Prix,RUS,3,HARD,26
+Bahrain Grand Prix,SAI,1,SOFT,16
+Bahrain Grand Prix,SAI,2,HARD,18
+Bahrain Grand Prix,SAI,3,HARD,26
+Bahrain Grand Prix,SAR,1,SOFT,12
+Bahrain Grand Prix,SAR,2,SOFT,18
+Bahrain Grand Prix,SAR,3,HARD,10
+Bahrain Grand Prix,SAR,4,SOFT,16
+Bahrain Grand Prix,STR,1,SOFT,18
+Bahrain Grand Prix,STR,2,HARD,15
+Bahrain Grand Prix,STR,3,HARD,27
+Bahrain Grand Prix,TSU,1,SOFT,10
+Bahrain Grand Prix,TSU,2,HARD,16
+Bahrain Grand Prix,TSU,3,HARD,14
+Bahrain Grand Prix,TSU,4,SOFT,20
+Bahrain Grand Prix,VER,1,SOFT,17
+Bahrain Grand Prix,VER,2,SOFT,22
+Bahrain Grand Prix,VER,3,HARD,21
+Bahrain Grand Prix,ZHO,1,SOFT,12
+Bahrain Grand Prix,ZHO,2,HARD,20
+Bahrain Grand Prix,ZHO,3,SOFT,25
+Bahrain Grand Prix,ZHO,4,SOFT,5
+Belgian Grand Prix,ALB,1,SOFT,7
+Belgian Grand Prix,ALB,2,MEDIUM,16
+Belgian Grand Prix,ALB,3,MEDIUM,10
+Belgian Grand Prix,ALB,4,SOFT,11
+Belgian Grand Prix,ALO,1,MEDIUM,10
+Belgian Grand Prix,ALO,2,MEDIUM,19
+Belgian Grand Prix,ALO,3,SOFT,15
+Belgian Grand Prix,BOT,1,SOFT,6
+Belgian Grand Prix,BOT,2,MEDIUM,18
+Belgian Grand Prix,BOT,3,MEDIUM,20
+Belgian Grand Prix,GAS,1,SOFT,23
+Belgian Grand Prix,GAS,2,MEDIUM,21
+Belgian Grand Prix,HAM,1,SOFT,12
+Belgian Grand Prix,HAM,2,MEDIUM,15
+Belgian Grand Prix,HAM,3,SOFT,15
+Belgian Grand Prix,HAM,4,MEDIUM,2
+Belgian Grand Prix,HUL,1,MEDIUM,12
+Belgian Grand Prix,HUL,2,SOFT,12
+Belgian Grand Prix,HUL,3,SOFT,20
+Belgian Grand Prix,LEC,1,SOFT,13
+Belgian Grand Prix,LEC,2,MEDIUM,15
+Belgian Grand Prix,LEC,3,SOFT,16
+Belgian Grand Prix,MAG,1,SOFT,5
+Belgian Grand Prix,MAG,2,MEDIUM,20
+Belgian Grand Prix,MAG,3,MEDIUM,19
+Belgian Grand Prix,NOR,1,MEDIUM,5
+Belgian Grand Prix,NOR,2,HARD,12
+Belgian Grand Prix,NOR,3,SOFT,27
+Belgian Grand Prix,OCO,1,SOFT,6
+Belgian Grand Prix,OCO,2,MEDIUM,19
+Belgian Grand Prix,OCO,3,SOFT,19
+Belgian Grand Prix,PER,1,SOFT,13
+Belgian Grand Prix,PER,2,MEDIUM,16
+Belgian Grand Prix,PER,3,SOFT,15
+Belgian Grand Prix,RIC,1,SOFT,5
+Belgian Grand Prix,RIC,2,MEDIUM,17
+Belgian Grand Prix,RIC,3,MEDIUM,22
+Belgian Grand Prix,RUS,1,MEDIUM,22
+Belgian Grand Prix,RUS,2,SOFT,22
+Belgian Grand Prix,SAI,1,SOFT,7
+Belgian Grand Prix,SAI,2,MEDIUM,16
+Belgian Grand Prix,SAR,1,SOFT,8
+Belgian Grand Prix,SAR,2,MEDIUM,16
+Belgian Grand Prix,SAR,3,MEDIUM,10
+Belgian Grand Prix,SAR,4,SOFT,10
+Belgian Grand Prix,STR,1,MEDIUM,20
+Belgian Grand Prix,STR,2,SOFT,24
+Belgian Grand Prix,TSU,1,MEDIUM,9
+Belgian Grand Prix,TSU,2,MEDIUM,15
+Belgian Grand Prix,TSU,3,SOFT,20
+Belgian Grand Prix,VER,1,SOFT,14
+Belgian Grand Prix,VER,2,MEDIUM,16
+Belgian Grand Prix,VER,3,SOFT,14
+Belgian Grand Prix,ZHO,1,SOFT,7
+Belgian Grand Prix,ZHO,2,MEDIUM,18
+Belgian Grand Prix,ZHO,3,SOFT,19
+British Grand Prix,ALB,1,MEDIUM,32
+British Grand Prix,ALB,2,SOFT,24
+British Grand Prix,ALO,1,MEDIUM,34
+British Grand Prix,ALO,2,SOFT,22
+British Grand Prix,BOT,1,HARD,32
+British Grand Prix,BOT,2,SOFT,20
+British Grand Prix,DEV,1,SOFT,27
+British Grand Prix,DEV,2,MEDIUM,5
+British Grand Prix,DEV,3,SOFT,20
+British Grand Prix,GAS,1,MEDIUM,31
+British Grand Prix,GAS,2,SOFT,17
+British Grand Prix,HAM,1,MEDIUM,33
+British Grand Prix,HAM,2,SOFT,22
+British Grand Prix,HUL,1,HARD,7
+British Grand Prix,HUL,2,MEDIUM,25
+British Grand Prix,HUL,3,SOFT,20
+British Grand Prix,LEC,1,MEDIUM,18
+British Grand Prix,LEC,2,HARD,14
+British Grand Prix,LEC,3,MEDIUM,20
+British Grand Prix,MAG,1,MEDIUM,31
+British Grand Prix,NOR,1,MEDIUM,33
+British Grand Prix,NOR,2,HARD,19
+British Grand Prix,OCO,1,SOFT,9
+British Grand Prix,PER,1,MEDIUM,28
+British Grand Prix,PER,2,SOFT,24
+British Grand Prix,PIA,1,MEDIUM,29
+British Grand Prix,PIA,2,HARD,23
+British Grand Prix,RUS,1,SOFT,31
+British Grand Prix,RUS,2,MEDIUM,24
+British Grand Prix,SAI,1,MEDIUM,26
+British Grand Prix,SAI,2,HARD,26
+British Grand Prix,SAR,1,MEDIUM,29
+British Grand Prix,SAR,2,SOFT,23
+British Grand Prix,STR,1,MEDIUM,32
+British Grand Prix,STR,2,SOFT,24
+British Grand Prix,TSU,1,SOFT,14
+British Grand Prix,TSU,2,HARD,18
+British Grand Prix,TSU,3,SOFT,20
+British Grand Prix,VER,1,MEDIUM,33
+British Grand Prix,VER,2,SOFT,22
+British Grand Prix,ZHO,1,MEDIUM,24
+British Grand Prix,ZHO,2,HARD,9
+British Grand Prix,ZHO,3,SOFT,2
+British Grand Prix,ZHO,4,SOFT,19
+Canadian Grand Prix,ALB,1,MEDIUM,13
+Canadian Grand Prix,ALB,2,HARD,58
+Canadian Grand Prix,ALO,1,MEDIUM,12
+Canadian Grand Prix,ALO,2,HARD,29
+Canadian Grand Prix,ALO,3,HARD,29
+Canadian Grand Prix,BOT,1,HARD,36
+Canadian Grand Prix,BOT,2,MEDIUM,34
+Canadian Grand Prix,DEV,1,MEDIUM,11
+Canadian Grand Prix,DEV,2,HARD,39
+Canadian Grand Prix,DEV,3,HARD,19
+Canadian Grand Prix,GAS,1,SOFT,10
+Canadian Grand Prix,GAS,2,HARD,23
+Canadian Grand Prix,GAS,3,HARD,37
+Canadian Grand Prix,HAM,1,MEDIUM,12
+Canadian Grand Prix,HAM,2,HARD,28
+Canadian Grand Prix,HAM,3,MEDIUM,30
+Canadian Grand Prix,HUL,1,MEDIUM,11
+Canadian Grand Prix,HUL,2,HARD,20
+Canadian Grand Prix,HUL,3,HARD,38
+Canadian Grand Prix,LEC,1,MEDIUM,39
+Canadian Grand Prix,LEC,2,HARD,31
+Canadian Grand Prix,MAG,1,HARD,34
+Canadian Grand Prix,MAG,2,MEDIUM,18
+Canadian Grand Prix,MAG,3,MEDIUM,16
+Canadian Grand Prix,NOR,1,MEDIUM,12
+Canadian Grand Prix,NOR,2,HARD,23
+Canadian Grand Prix,NOR,3,HARD,36
+Canadian Grand Prix,OCO,1,MEDIUM,12
+Canadian Grand Prix,OCO,2,HARD,24
+Canadian Grand Prix,OCO,3,HARD,34
+Canadian Grand Prix,PER,1,HARD,37
+Canadian Grand Prix,PER,2,MEDIUM,31
+Canadian Grand Prix,PER,3,SOFT,2
+Canadian Grand Prix,PIA,1,MEDIUM,12
+Canadian Grand Prix,PIA,2,HARD,25
+Canadian Grand Prix,PIA,3,HARD,33
+Canadian Grand Prix,RUS,1,MEDIUM,11
+Canadian Grand Prix,RUS,2,HARD,41
+Canadian Grand Prix,SAI,1,MEDIUM,38
+Canadian Grand Prix,SAI,2,HARD,32
+Canadian Grand Prix,SAR,1,MEDIUM,6
+Canadian Grand Prix,STR,1,MEDIUM,11
+Canadian Grand Prix,STR,2,HARD,16
+Canadian Grand Prix,STR,3,HARD,43
+Canadian Grand Prix,TSU,1,MEDIUM,1
+Canadian Grand Prix,TSU,2,HARD,34
+Canadian Grand Prix,VER,1,MEDIUM,12
+Canadian Grand Prix,VER,2,HARD,30
+Canadian Grand Prix,VER,3,MEDIUM,28
+Canadian Grand Prix,ZHO,1,MEDIUM,12
+Canadian Grand Prix,ZHO,2,HARD,20
+Canadian Grand Prix,ZHO,3,HARD,37
+Dutch Grand Prix,ALB,1,SOFT,44
+Dutch Grand Prix,ALB,2,MEDIUM,17
+Dutch Grand Prix,ALB,3,INTERMEDIATE,7
+Dutch Grand Prix,ALB,5,INTERMEDIATE,14
+Dutch Grand Prix,ALO,1,SOFT,2
+Dutch Grand Prix,ALO,2,INTERMEDIATE,8
+Dutch Grand Prix,ALO,3,SOFT,38
+Dutch Grand Prix,ALO,4,SOFT,15
+Dutch Grand Prix,ALO,5,INTERMEDIATE,5
+Dutch Grand Prix,ALO,6,INTERMEDIATE,14
+Dutch Grand Prix,BOT,1,SOFT,16
+Dutch Grand Prix,BOT,2,MEDIUM,31
+Dutch Grand Prix,BOT,3,SOFT,12
+Dutch Grand Prix,BOT,4,INTERMEDIATE,4
+Dutch Grand Prix,BOT,6,INTERMEDIATE,9
+Dutch Grand Prix,GAS,1,SOFT,1
+Dutch Grand Prix,GAS,2,INTERMEDIATE,16
+Dutch Grand Prix,GAS,3,SOFT,35
+Dutch Grand Prix,GAS,4,SOFT,14
+Dutch Grand Prix,GAS,5,INTERMEDIATE,3
+Dutch Grand Prix,GAS,6,INTERMEDIATE,12
+Dutch Grand Prix,HAM,1,MEDIUM,3
+Dutch Grand Prix,HAM,2,INTERMEDIATE,6
+Dutch Grand Prix,HAM,3,SOFT,36
+Dutch Grand Prix,HAM,4,SOFT,15
+Dutch Grand Prix,HAM,5,INTERMEDIATE,9
+Dutch Grand Prix,HAM,6,INTERMEDIATE,14
+Dutch Grand Prix,HUL,1,SOFT,16
+Dutch Grand Prix,HUL,2,MEDIUM,32
+Dutch Grand Prix,HUL,3,SOFT,12
+Dutch Grand Prix,HUL,4,INTERMEDIATE,6
+Dutch Grand Prix,HUL,6,INTERMEDIATE,13
+Dutch Grand Prix,LAW,1,SOFT,1
+Dutch Grand Prix,LAW,2,INTERMEDIATE,14
+Dutch Grand Prix,LAW,3,SOFT,7
+Dutch Grand Prix,LAW,4,MEDIUM,29
+Dutch Grand Prix,LAW,5,SOFT,13
+Dutch Grand Prix,LAW,6,INTERMEDIATE,3
+Dutch Grand Prix,LAW,8,INTERMEDIATE,16
+Dutch Grand Prix,LEC,1,SOFT,1
+Dutch Grand Prix,LEC,2,INTERMEDIATE,10
+Dutch Grand Prix,LEC,3,SOFT,30
+Dutch Grand Prix,MAG,1,SOFT,1
+Dutch Grand Prix,MAG,2,INTERMEDIATE,8
+Dutch Grand Prix,MAG,3,SOFT,26
+Dutch Grand Prix,MAG,4,MEDIUM,25
+Dutch Grand Prix,MAG,5,INTERMEDIATE,2
+Dutch Grand Prix,MAG,7,INTERMEDIATE,12
+Dutch Grand Prix,NOR,1,SOFT,3
+Dutch Grand Prix,NOR,2,INTERMEDIATE,7
+Dutch Grand Prix,NOR,3,SOFT,33
+Dutch Grand Prix,NOR,4,SOFT,21
+Dutch Grand Prix,NOR,5,INTERMEDIATE,7
+Dutch Grand Prix,NOR,7,INTERMEDIATE,20
+Dutch Grand Prix,OCO,1,SOFT,2
+Dutch Grand Prix,OCO,2,INTERMEDIATE,8
+Dutch Grand Prix,OCO,3,SOFT,33
+Dutch Grand Prix,OCO,4,SOFT,18
+Dutch Grand Prix,OCO,5,WET,2
+Dutch Grand Prix,OCO,7,INTERMEDIATE,9
+Dutch Grand Prix,PER,1,SOFT,1
+Dutch Grand Prix,PER,2,INTERMEDIATE,11
+Dutch Grand Prix,PER,3,SOFT,33
+Dutch Grand Prix,PER,4,SOFT,16
+Dutch Grand Prix,PER,5,INTERMEDIATE,9
+Dutch Grand Prix,PER,7,INTERMEDIATE,15
+Dutch Grand Prix,PIA,1,SOFT,15
+Dutch Grand Prix,PIA,2,SOFT,31
+Dutch Grand Prix,PIA,3,MEDIUM,14
+Dutch Grand Prix,PIA,4,INTERMEDIATE,8
+Dutch Grand Prix,PIA,6,INTERMEDIATE,13
+Dutch Grand Prix,RUS,1,SOFT,4
+Dutch Grand Prix,RUS,2,INTERMEDIATE,6
+Dutch Grand Prix,RUS,3,SOFT,6
+Dutch Grand Prix,RUS,4,HARD,44
+Dutch Grand Prix,RUS,5,INTERMEDIATE,15
+Dutch Grand Prix,RUS,7,INTERMEDIATE,9
+Dutch Grand Prix,RUS,8,INTERMEDIATE,11
+Dutch Grand Prix,SAI,1,SOFT,2
+Dutch Grand Prix,SAI,2,INTERMEDIATE,8
+Dutch Grand Prix,SAI,3,SOFT,31
+Dutch Grand Prix,SAI,4,SOFT,21
+Dutch Grand Prix,SAI,5,INTERMEDIATE,18
+Dutch Grand Prix,SAI,6,INTERMEDIATE,12
+Dutch Grand Prix,SAR,1,SOFT,14
+Dutch Grand Prix,STR,1,SOFT,4
+Dutch Grand Prix,STR,2,INTERMEDIATE,5
+Dutch Grand Prix,STR,3,SOFT,7
+Dutch Grand Prix,STR,4,MEDIUM,18
+Dutch Grand Prix,STR,5,SOFT,26
+Dutch Grand Prix,STR,6,INTERMEDIATE,8
+Dutch Grand Prix,STR,8,INTERMEDIATE,14
+Dutch Grand Prix,TSU,1,SOFT,1
+Dutch Grand Prix,TSU,2,INTERMEDIATE,14
+Dutch Grand Prix,TSU,3,SOFT,50
+Dutch Grand Prix,TSU,4,INTERMEDIATE,8
+Dutch Grand Prix,TSU,6,INTERMEDIATE,14
+Dutch Grand Prix,VER,1,SOFT,2
+Dutch Grand Prix,VER,2,INTERMEDIATE,9
+Dutch Grand Prix,VER,3,SOFT,38
+Dutch Grand Prix,VER,4,SOFT,13
+Dutch Grand Prix,VER,5,INTERMEDIATE,14
+Dutch Grand Prix,VER,7,INTERMEDIATE,12
+Dutch Grand Prix,ZHO,1,SOFT,1
+Dutch Grand Prix,ZHO,2,INTERMEDIATE,9
+Dutch Grand Prix,ZHO,3,MEDIUM,27
+Dutch Grand Prix,ZHO,4,SOFT,23
+Dutch Grand Prix,ZHO,5,INTERMEDIATE,2
+Hungarian Grand Prix,ALB,1,MEDIUM,8
+Hungarian Grand Prix,ALB,2,HARD,26
+Hungarian Grand Prix,ALB,3,HARD,38
+Hungarian Grand Prix,ALO,1,MEDIUM,23
+Hungarian Grand Prix,ALO,2,HARD,27
+Hungarian Grand Prix,ALO,3,HARD,27
+Hungarian Grand Prix,BOT,1,MEDIUM,12
+Hungarian Grand Prix,BOT,2,HARD,36
+Hungarian Grand Prix,BOT,3,HARD,32
+Hungarian Grand Prix,GAS,1,SOFT,1
+Hungarian Grand Prix,HAM,1,MEDIUM,19
+Hungarian Grand Prix,HAM,2,HARD,33
+Hungarian Grand Prix,HAM,3,MEDIUM,24
+Hungarian Grand Prix,HUL,1,MEDIUM,19
+Hungarian Grand Prix,HUL,2,HARD,25
+Hungarian Grand Prix,HUL,3,HARD,36
+Hungarian Grand Prix,LEC,1,MEDIUM,20
+Hungarian Grand Prix,LEC,2,HARD,26
+Hungarian Grand Prix,LEC,3,HARD,31
+Hungarian Grand Prix,MAG,1,MEDIUM,14
+Hungarian Grand Prix,MAG,2,HARD,30
+Hungarian Grand Prix,MAG,3,HARD,33
+Hungarian Grand Prix,NOR,1,MEDIUM,17
+Hungarian Grand Prix,NOR,2,HARD,27
+Hungarian Grand Prix,NOR,3,MEDIUM,29
+Hungarian Grand Prix,OCO,1,MEDIUM,5
+Hungarian Grand Prix,PER,1,HARD,27
+Hungarian Grand Prix,PER,2,MEDIUM,24
+Hungarian Grand Prix,PER,3,MEDIUM,31
+Hungarian Grand Prix,PIA,1,MEDIUM,20
+Hungarian Grand Prix,PIA,2,HARD,24
+Hungarian Grand Prix,PIA,3,MEDIUM,31
+Hungarian Grand Prix,RIC,1,MEDIUM,21
+Hungarian Grand Prix,RIC,2,HARD,14
+Hungarian Grand Prix,RIC,3,MEDIUM,43
+Hungarian Grand Prix,RUS,1,HARD,28
+Hungarian Grand Prix,RUS,2,MEDIUM,18
+Hungarian Grand Prix,RUS,3,MEDIUM,24
+Hungarian Grand Prix,SAI,1,SOFT,15
+Hungarian Grand Prix,SAI,2,HARD,29
+Hungarian Grand Prix,SAI,3,HARD,29
+Hungarian Grand Prix,SAR,1,MEDIUM,13
+Hungarian Grand Prix,SAR,2,HARD,24
+Hungarian Grand Prix,SAR,3,HARD,33
+Hungarian Grand Prix,STR,1,SOFT,9
+Hungarian Grand Prix,STR,2,HARD,30
+Hungarian Grand Prix,STR,3,HARD,39
+Hungarian Grand Prix,TSU,1,SOFT,9
+Hungarian Grand Prix,TSU,2,HARD,38
+Hungarian Grand Prix,TSU,3,MEDIUM,25
+Hungarian Grand Prix,VER,1,MEDIUM,26
+Hungarian Grand Prix,VER,2,HARD,28
+Hungarian Grand Prix,VER,3,MEDIUM,22
+Hungarian Grand Prix,ZHO,1,MEDIUM,13
+Hungarian Grand Prix,ZHO,2,HARD,33
+Hungarian Grand Prix,ZHO,3,HARD,36
+Italian Grand Prix,ALB,1,MEDIUM,18
+Italian Grand Prix,ALB,2,HARD,39
+Italian Grand Prix,ALO,1,MEDIUM,21
+Italian Grand Prix,ALO,2,HARD,33
+Italian Grand Prix,BOT,1,HARD,28
+Italian Grand Prix,BOT,2,MEDIUM,28
+Italian Grand Prix,GAS,1,MEDIUM,10
+Italian Grand Prix,GAS,2,HARD,24
+Italian Grand Prix,GAS,3,MEDIUM,19
+Italian Grand Prix,HAM,1,HARD,30
+Italian Grand Prix,HAM,2,MEDIUM,24
+Italian Grand Prix,HUL,1,MEDIUM,17
+Italian Grand Prix,HUL,2,HARD,30
+Italian Grand Prix,HUL,3,MEDIUM,14
+Italian Grand Prix,LAW,1,MEDIUM,16
+Italian Grand Prix,LAW,2,HARD,23
+Italian Grand Prix,LAW,3,MEDIUM,20
+Italian Grand Prix,LEC,1,MEDIUM,20
+Italian Grand Prix,LEC,2,HARD,31
+Italian Grand Prix,MAG,1,HARD,16
+Italian Grand Prix,MAG,2,MEDIUM,21
+Italian Grand Prix,MAG,3,MEDIUM,17
+Italian Grand Prix,NOR,1,MEDIUM,22
+Italian Grand Prix,NOR,2,HARD,33
+Italian Grand Prix,OCO,1,MEDIUM,24
+Italian Grand Prix,OCO,2,HARD,18
+Italian Grand Prix,PER,1,MEDIUM,21
+Italian Grand Prix,PER,2,HARD,30
+Italian Grand Prix,PIA,1,MEDIUM,23
+Italian Grand Prix,PIA,2,HARD,23
+Italian Grand Prix,PIA,3,MEDIUM,12
+Italian Grand Prix,RUS,1,MEDIUM,19
+Italian Grand Prix,RUS,2,HARD,35
+Italian Grand Prix,SAI,1,MEDIUM,19
+Italian Grand Prix,SAI,2,HARD,32
+Italian Grand Prix,SAR,1,MEDIUM,17
+Italian Grand Prix,SAR,2,HARD,39
+Italian Grand Prix,STR,1,MEDIUM,20
+Italian Grand Prix,STR,2,HARD,34
+Italian Grand Prix,VER,1,MEDIUM,20
+Italian Grand Prix,VER,2,HARD,31
+Italian Grand Prix,ZHO,1,MEDIUM,11
+Italian Grand Prix,ZHO,2,HARD,25
+Italian Grand Prix,ZHO,3,MEDIUM,17
+Japanese Grand Prix,ALB,2,MEDIUM,12
+Japanese Grand Prix,ALB,3,SOFT,13
+Japanese Grand Prix,ALO,1,SOFT,14
+Japanese Grand Prix,ALO,2,HARD,14
+Japanese Grand Prix,ALO,3,HARD,28
+Japanese Grand Prix,BOT,2,SOFT,5
+Japanese Grand Prix,GAS,1,MEDIUM,18
+Japanese Grand Prix,GAS,2,HARD,16
+Japanese Grand Prix,GAS,3,HARD,19
+Japanese Grand Prix,HAM,1,MEDIUM,16
+Japanese Grand Prix,HAM,2,HARD,18
+Japanese Grand Prix,HAM,3,HARD,19
+Japanese Grand Prix,HUL,1,SOFT,8
+Japanese Grand Prix,HUL,2,MEDIUM,13
+Japanese Grand Prix,HUL,3,HARD,16
+Japanese Grand Prix,HUL,4,MEDIUM,15
+Japanese Grand Prix,LAW,1,SOFT,10
+Japanese Grand Prix,LAW,2,MEDIUM,15
+Japanese Grand Prix,LAW,3,HARD,27
+Japanese Grand Prix,LEC,1,MEDIUM,17
+Japanese Grand Prix,LEC,2,MEDIUM,17
+Japanese Grand Prix,LEC,3,HARD,19
+Japanese Grand Prix,MAG,1,MEDIUM,12
+Japanese Grand Prix,MAG,2,HARD,19
+Japanese Grand Prix,MAG,3,HARD,21
+Japanese Grand Prix,NOR,1,MEDIUM,17
+Japanese Grand Prix,NOR,2,HARD,19
+Japanese Grand Prix,NOR,3,HARD,17
+Japanese Grand Prix,OCO,2,HARD,27
+Japanese Grand Prix,OCO,3,HARD,25
+Japanese Grand Prix,PER,1,MEDIUM,1
+Japanese Grand Prix,PER,2,HARD,10
+Japanese Grand Prix,PER,5,SOFT,7
+Japanese Grand Prix,PIA,1,MEDIUM,13
+Japanese Grand Prix,PIA,2,HARD,22
+Japanese Grand Prix,PIA,3,HARD,18
+Japanese Grand Prix,RUS,1,MEDIUM,24
+Japanese Grand Prix,RUS,2,HARD,29
+Japanese Grand Prix,SAI,1,MEDIUM,18
+Japanese Grand Prix,SAI,2,MEDIUM,20
+Japanese Grand Prix,SAI,3,HARD,15
+Japanese Grand Prix,SAR,2,MEDIUM,5
+Japanese Grand Prix,SAR,3,MEDIUM,16
+Japanese Grand Prix,SAR,4,HARD,1
+Japanese Grand Prix,STR,1,SOFT,14
+Japanese Grand Prix,STR,2,MEDIUM,6
+Japanese Grand Prix,TSU,1,SOFT,12
+Japanese Grand Prix,TSU,2,MEDIUM,21
+Japanese Grand Prix,TSU,3,HARD,22
+Japanese Grand Prix,VER,1,MEDIUM,16
+Japanese Grand Prix,VER,2,MEDIUM,21
+Japanese Grand Prix,VER,3,HARD,16
+Japanese Grand Prix,ZHO,2,SOFT,9
+Japanese Grand Prix,ZHO,3,SOFT,19
+Japanese Grand Prix,ZHO,4,HARD,23
+Las Vegas Grand Prix,ALB,1,MEDIUM,17
+Las Vegas Grand Prix,ALB,2,HARD,27
+Las Vegas Grand Prix,ALB,3,HARD,15
+Las Vegas Grand Prix,ALO,1,MEDIUM,12
+Las Vegas Grand Prix,ALO,2,HARD,25
+Las Vegas Grand Prix,ALO,3,HARD,23
+Las Vegas Grand Prix,BOT,1,HARD,29
+Las Vegas Grand Prix,BOT,2,MEDIUM,28
+Las Vegas Grand Prix,GAS,1,MEDIUM,17
+Las Vegas Grand Prix,GAS,2,HARD,15
+Las Vegas Grand Prix,GAS,3,HARD,26
+Las Vegas Grand Prix,HAM,1,MEDIUM,15
+Las Vegas Grand Prix,HAM,2,HARD,20
+Las Vegas Grand Prix,HAM,3,HARD,23
+Las Vegas Grand Prix,HUL,1,MEDIUM,13
+Las Vegas Grand Prix,HUL,2,HARD,20
+Las Vegas Grand Prix,HUL,3,HARD,25
+Las Vegas Grand Prix,LEC,1,MEDIUM,17
+Las Vegas Grand Prix,LEC,2,HARD,18
+Las Vegas Grand Prix,LEC,3,HARD,23
+Las Vegas Grand Prix,MAG,1,MEDIUM,5
+Las Vegas Grand Prix,MAG,2,HARD,17
+Las Vegas Grand Prix,MAG,3,HARD,35
+Las Vegas Grand Prix,NOR,1,MEDIUM,14
+Las Vegas Grand Prix,NOR,2,HARD,19
+Las Vegas Grand Prix,NOR,3,HARD,25
+Las Vegas Grand Prix,OCO,1,MEDIUM,15
+Las Vegas Grand Prix,OCO,2,HARD,43
+Las Vegas Grand Prix,PER,1,MEDIUM,17
+Las Vegas Grand Prix,PER,2,HARD,25
+Las Vegas Grand Prix,PER,3,HARD,16
+Las Vegas Grand Prix,PIA,1,MEDIUM,13
+Las Vegas Grand Prix,PIA,2,HARD,23
+Las Vegas Grand Prix,PIA,3,HARD,22
+Las Vegas Grand Prix,RIC,1,MEDIUM,7
+Las Vegas Grand Prix,RIC,2,HARD,24
+Las Vegas Grand Prix,RIC,3,HARD,27
+Las Vegas Grand Prix,RUS,1,MEDIUM,14
+Las Vegas Grand Prix,RUS,2,HARD,20
+Las Vegas Grand Prix,RUS,3,HARD,24
+Las Vegas Grand Prix,SAI,1,HARD,23
+Las Vegas Grand Prix,SAI,2,HARD,33
+Las Vegas Grand Prix,SAI,3,SOFT,1
+Las Vegas Grand Prix,SAR,1,MEDIUM,16
+Las Vegas Grand Prix,SAR,2,HARD,26
+Las Vegas Grand Prix,SAR,3,HARD,17
+Las Vegas Grand Prix,STR,1,HARD,23
+Las Vegas Grand Prix,STR,2,HARD,21
+Las Vegas Grand Prix,STR,3,MEDIUM,16
+Las Vegas Grand Prix,TSU,1,MEDIUM,22
+Las Vegas Grand Prix,TSU,2,HARD,36
+Las Vegas Grand Prix,VER,1,MEDIUM,16
+Las Vegas Grand Prix,VER,2,HARD,27
+Las Vegas Grand Prix,VER,3,HARD,15
+Las Vegas Grand Prix,ZHO,1,MEDIUM,13
+Las Vegas Grand Prix,ZHO,2,HARD,24
+Las Vegas Grand Prix,ZHO,3,MEDIUM,21
+Mexico City Grand Prix,ALO,1,SOFT,4
+Mexico City Grand Prix,ALO,3,SOFT,26
+Mexico City Grand Prix,ALO,4,MEDIUM,22
+Mexico City Grand Prix,ALO,5,SOFT,24
+Mexico City Grand Prix,BOT,3,SOFT,16
+Mexico City Grand Prix,BOT,4,MEDIUM,21
+Mexico City Grand Prix,GAS,3,SOFT,27
+Mexico City Grand Prix,GAS,4,MEDIUM,20
+Mexico City Grand Prix,GAS,5,SOFT,25
+Mexico City Grand Prix,HAM,1,SOFT,4
+Mexico City Grand Prix,HAM,3,SOFT,19
+Mexico City Grand Prix,HAM,4,MEDIUM,28
+Mexico City Grand Prix,HAM,5,SOFT,28
+Mexico City Grand Prix,HUL,3,SOFT,22
+Mexico City Grand Prix,HUL,4,SOFT,28
+Mexico City Grand Prix,HUL,5,SOFT,27
+Mexico City Grand Prix,NOR,1,SOFT,4
+Mexico City Grand Prix,NOR,3,SOFT,25
+Mexico City Grand Prix,NOR,4,MEDIUM,32
+Mexico City Grand Prix,NOR,5,SOFT,15
+Mexico City Grand Prix,OCO,1,SOFT,4
+Mexico City Grand Prix,OCO,3,SOFT,15
+Mexico City Grand Prix,OCO,4,MEDIUM,17
+Mexico City Grand Prix,OCO,5,SOFT,23
+Mexico City Grand Prix,OCO,6,SOFT,19
+Mexico City Grand Prix,PER,1,SOFT,4
+Mexico City Grand Prix,PER,3,SOFT,21
+Mexico City Grand Prix,PER,4,MEDIUM,26
+Mexico City Grand Prix,PER,5,SOFT,28
+Mexico City Grand Prix,PIA,1,SOFT,3
+Mexico City Grand Prix,PIA,3,MEDIUM,23
+Mexico City Grand Prix,PIA,4,SOFT,31
+Mexico City Grand Prix,PIA,5,SOFT,22
+Mexico City Grand Prix,RIC,3,SOFT,28
+Mexico City Grand Prix,RIC,4,MEDIUM,29
+Mexico City Grand Prix,RIC,5,SOFT,15
+Mexico City Grand Prix,RUS,1,SOFT,4
+Mexico City Grand Prix,RUS,3,SOFT,20
+Mexico City Grand Prix,RUS,4,MEDIUM,26
+Mexico City Grand Prix,RUS,5,SOFT,15
+Mexico City Grand Prix,SAI,1,SOFT,3
+Mexico City Grand Prix,SAI,3,SOFT,28
+Mexico City Grand Prix,SAI,4,MEDIUM,25
+Mexico City Grand Prix,SAI,5,SOFT,23
+Mexico City Grand Prix,SAR,3,SOFT,15
+Mexico City Grand Prix,SAR,4,SOFT,27
+Mexico City Grand Prix,SAR,5,SOFT,26
+Mexico City Grand Prix,STR,1,SOFT,1
+Mexico City Grand Prix,STR,3,SOFT,23
+Mexico City Grand Prix,STR,4,MEDIUM,30
+Mexico City Grand Prix,STR,5,SOFT,21
+Mexico City Grand Prix,TSU,3,SOFT,24
+Mexico City Grand Prix,TSU,4,MEDIUM,29
+Mexico City Grand Prix,TSU,5,SOFT,19
+Mexico City Grand Prix,VER,1,SOFT,4
+Mexico City Grand Prix,VER,3,SOFT,28
+Mexico City Grand Prix,VER,4,MEDIUM,29
+Mexico City Grand Prix,VER,5,SOFT,15
+Mexico City Grand Prix,ZHO,3,SOFT,13
+Mexico City Grand Prix,ZHO,4,MEDIUM,7
+Miami Grand Prix,ALB,1,MEDIUM,22
+Miami Grand Prix,ALB,2,HARD,35
+Miami Grand Prix,ALO,1,MEDIUM,25
+Miami Grand Prix,ALO,2,HARD,34
+Miami Grand Prix,BOT,1,MEDIUM,15
+Miami Grand Prix,BOT,2,HARD,42
+Miami Grand Prix,DEV,1,MEDIUM,15
+Miami Grand Prix,DEV,2,HARD,42
+Miami Grand Prix,GAS,1,MEDIUM,15
+Miami Grand Prix,GAS,2,HARD,42
+Miami Grand Prix,HAM,1,HARD,37
+Miami Grand Prix,HAM,2,MEDIUM,20
+Miami Grand Prix,HUL,1,HARD,33
+Miami Grand Prix,HUL,2,MEDIUM,24
+Miami Grand Prix,LEC,1,MEDIUM,17
+Miami Grand Prix,LEC,2,HARD,40
+Miami Grand Prix,MAG,1,MEDIUM,14
+Miami Grand Prix,MAG,2,HARD,43
+Miami Grand Prix,NOR,1,SOFT,4
+Miami Grand Prix,NOR,2,HARD,53
+Miami Grand Prix,OCO,1,HARD,39
+Miami Grand Prix,OCO,2,MEDIUM,18
+Miami Grand Prix,PER,1,MEDIUM,20
+Miami Grand Prix,PER,2,HARD,37
+Miami Grand Prix,PIA,1,SOFT,5
+Miami Grand Prix,PIA,2,HARD,51
+Miami Grand Prix,RUS,1,MEDIUM,17
+Miami Grand Prix,RUS,2,HARD,40
+Miami Grand Prix,SAI,1,MEDIUM,18
+Miami Grand Prix,SAI,2,HARD,39
+Miami Grand Prix,SAR,1,MEDIUM,2
+Miami Grand Prix,SAR,2,HARD,54
+Miami Grand Prix,STR,1,HARD,43
+Miami Grand Prix,STR,2,MEDIUM,16
+Miami Grand Prix,TSU,1,HARD,36
+Miami Grand Prix,TSU,2,MEDIUM,21
+Miami Grand Prix,VER,1,HARD,45
+Miami Grand Prix,VER,2,MEDIUM,12
+Miami Grand Prix,ZHO,1,HARD,31
+Miami Grand Prix,ZHO,2,MEDIUM,26
+Monaco Grand Prix,ALB,1,MEDIUM,18
+Monaco Grand Prix,ALB,2,HARD,34
+Monaco Grand Prix,ALB,3,INTERMEDIATE,25
+Monaco Grand Prix,ALO,1,HARD,55
+Monaco Grand Prix,ALO,2,MEDIUM,2
+Monaco Grand Prix,ALO,3,INTERMEDIATE,23
+Monaco Grand Prix,BOT,1,HARD,51
+Monaco Grand Prix,BOT,2,INTERMEDIATE,26
+Monaco Grand Prix,DEV,1,MEDIUM,53
+Monaco Grand Prix,DEV,2,INTERMEDIATE,24
+Monaco Grand Prix,GAS,1,HARD,47
+Monaco Grand Prix,GAS,2,MEDIUM,7
+Monaco Grand Prix,GAS,3,INTERMEDIATE,24
+Monaco Grand Prix,HAM,1,MEDIUM,31
+Monaco Grand Prix,HAM,2,HARD,23
+Monaco Grand Prix,HAM,3,INTERMEDIATE,24
+Monaco Grand Prix,HUL,1,MEDIUM,1
+Monaco Grand Prix,HUL,2,HARD,52
+Monaco Grand Prix,HUL,3,INTERMEDIATE,5
+Monaco Grand Prix,HUL,4,WET,17
+Monaco Grand Prix,LEC,1,HARD,44
+Monaco Grand Prix,LEC,2,MEDIUM,11
+Monaco Grand Prix,LEC,3,INTERMEDIATE,23
+Monaco Grand Prix,MAG,1,HARD,55
+Monaco Grand Prix,MAG,2,WET,14
+Monaco Grand Prix,NOR,1,MEDIUM,50
+Monaco Grand Prix,NOR,2,HARD,4
+Monaco Grand Prix,NOR,3,INTERMEDIATE,23
+Monaco Grand Prix,OCO,1,MEDIUM,32
+Monaco Grand Prix,OCO,2,HARD,22
+Monaco Grand Prix,OCO,3,INTERMEDIATE,24
+Monaco Grand Prix,PER,1,MEDIUM,1
+Monaco Grand Prix,PER,2,HARD,33
+Monaco Grand Prix,PER,3,MEDIUM,20
+Monaco Grand Prix,PER,4,INTERMEDIATE,4
+Monaco Grand Prix,PER,5,WET,13
+Monaco Grand Prix,PER,6,INTERMEDIATE,6
+Monaco Grand Prix,PIA,1,HARD,54
+Monaco Grand Prix,PIA,2,INTERMEDIATE,23
+Monaco Grand Prix,RUS,1,HARD,54
+Monaco Grand Prix,RUS,2,INTERMEDIATE,24
+Monaco Grand Prix,SAI,1,HARD,33
+Monaco Grand Prix,SAI,2,MEDIUM,21
+Monaco Grand Prix,SAI,3,INTERMEDIATE,23
+Monaco Grand Prix,SAR,1,MEDIUM,20
+Monaco Grand Prix,SAR,2,HARD,3
+Monaco Grand Prix,SAR,3,SOFT,29
+Monaco Grand Prix,SAR,4,INTERMEDIATE,24
+Monaco Grand Prix,STR,1,HARD,52
+Monaco Grand Prix,STR,2,INTERMEDIATE,2
+Monaco Grand Prix,TSU,1,MEDIUM,53
+Monaco Grand Prix,TSU,2,INTERMEDIATE,23
+Monaco Grand Prix,VER,1,MEDIUM,55
+Monaco Grand Prix,VER,2,INTERMEDIATE,23
+Monaco Grand Prix,ZHO,1,SOFT,1
+Monaco Grand Prix,ZHO,2,HARD,51
+Monaco Grand Prix,ZHO,3,INTERMEDIATE,25
+Qatar Grand Prix,ALB,1,MEDIUM,18
+Qatar Grand Prix,ALB,2,MEDIUM,13
+Qatar Grand Prix,ALB,3,HARD,13
+Qatar Grand Prix,ALB,4,HARD,13
+Qatar Grand Prix,ALO,1,MEDIUM,16
+Qatar Grand Prix,ALO,2,MEDIUM,20
+Qatar Grand Prix,ALO,3,HARD,18
+Qatar Grand Prix,ALO,4,MEDIUM,13
+Qatar Grand Prix,BOT,1,SOFT,4
+Qatar Grand Prix,BOT,2,MEDIUM,18
+Qatar Grand Prix,BOT,3,HARD,18
+Qatar Grand Prix,BOT,4,HARD,19
+Qatar Grand Prix,GAS,1,MEDIUM,18
+Qatar Grand Prix,GAS,2,MEDIUM,20
+Qatar Grand Prix,GAS,3,HARD,18
+Qatar Grand Prix,GAS,4,MEDIUM,13
+Qatar Grand Prix,HUL,1,MEDIUM,20
+Qatar Grand Prix,HUL,2,HARD,14
+Qatar Grand Prix,HUL,3,MEDIUM,18
+Qatar Grand Prix,HUL,4,HARD,17
+Qatar Grand Prix,LAW,1,SOFT,1
+Qatar Grand Prix,LAW,2,HARD,18
+Qatar Grand Prix,LAW,3,HARD,18
+Qatar Grand Prix,LAW,4,MEDIUM,17
+Qatar Grand Prix,LEC,1,MEDIUM,20
+Qatar Grand Prix,LEC,2,MEDIUM,20
+Qatar Grand Prix,LEC,3,HARD,18
+Qatar Grand Prix,LEC,4,MEDIUM,14
+Qatar Grand Prix,MAG,1,SOFT,1
+Qatar Grand Prix,MAG,2,MEDIUM,18
+Qatar Grand Prix,MAG,3,HARD,18
+Qatar Grand Prix,MAG,4,HARD,17
+Qatar Grand Prix,NOR,1,MEDIUM,20
+Qatar Grand Prix,NOR,2,MEDIUM,20
+Qatar Grand Prix,NOR,3,MEDIUM,17
+Qatar Grand Prix,NOR,4,HARD,13
+Qatar Grand Prix,OCO,1,MEDIUM,17
+Qatar Grand Prix,OCO,2,MEDIUM,20
+Qatar Grand Prix,OCO,3,HARD,18
+Qatar Grand Prix,OCO,4,MEDIUM,14
+Qatar Grand Prix,PER,1,HARD,17
+Qatar Grand Prix,PER,2,MEDIUM,20
+Qatar Grand Prix,PER,3,MEDIUM,18
+Qatar Grand Prix,PER,4,MEDIUM,14
+Qatar Grand Prix,PIA,1,MEDIUM,18
+Qatar Grand Prix,PIA,2,MEDIUM,20
+Qatar Grand Prix,PIA,3,MEDIUM,18
+Qatar Grand Prix,PIA,4,HARD,14
+Qatar Grand Prix,RUS,1,MEDIUM,8
+Qatar Grand Prix,RUS,2,MEDIUM,20
+Qatar Grand Prix,RUS,3,MEDIUM,18
+Qatar Grand Prix,RUS,4,HARD,18
+Qatar Grand Prix,RUS,5,SOFT,10
+Qatar Grand Prix,SAR,1,MEDIUM,13
+Qatar Grand Prix,SAR,2,MEDIUM,13
+Qatar Grand Prix,SAR,3,HARD,14
+Qatar Grand Prix,STR,1,MEDIUM,9
+Qatar Grand Prix,STR,2,MEDIUM,18
+Qatar Grand Prix,STR,3,HARD,18
+Qatar Grand Prix,STR,4,MEDIUM,18
+Qatar Grand Prix,TSU,1,MEDIUM,9
+Qatar Grand Prix,TSU,2,MEDIUM,13
+Qatar Grand Prix,TSU,3,HARD,18
+Qatar Grand Prix,TSU,4,HARD,16
+Qatar Grand Prix,VER,1,MEDIUM,20
+Qatar Grand Prix,VER,2,MEDIUM,20
+Qatar Grand Prix,VER,3,HARD,17
+Qatar Grand Prix,VER,4,MEDIUM,6
+Qatar Grand Prix,ZHO,1,MEDIUM,18
+Qatar Grand Prix,ZHO,2,HARD,17
+Qatar Grand Prix,ZHO,3,HARD,17
+Qatar Grand Prix,ZHO,4,SOFT,5
+Saudi Arabian Grand Prix,ALB,1,MEDIUM,17
+Saudi Arabian Grand Prix,ALB,2,HARD,9
+Saudi Arabian Grand Prix,ALO,1,MEDIUM,18
+Saudi Arabian Grand Prix,ALO,2,HARD,33
+Saudi Arabian Grand Prix,BOT,1,MEDIUM,9
+Saudi Arabian Grand Prix,BOT,2,HARD,8
+Saudi Arabian Grand Prix,BOT,3,MEDIUM,18
+Saudi Arabian Grand Prix,BOT,4,SOFT,14
+Saudi Arabian Grand Prix,DEV,1,MEDIUM,17
+Saudi Arabian Grand Prix,DEV,2,HARD,33
+Saudi Arabian Grand Prix,GAS,1,MEDIUM,14
+Saudi Arabian Grand Prix,GAS,2,HARD,36
+Saudi Arabian Grand Prix,HAM,1,HARD,18
+Saudi Arabian Grand Prix,HAM,2,MEDIUM,32
+Saudi Arabian Grand Prix,HUL,1,MEDIUM,11
+Saudi Arabian Grand Prix,HUL,2,HARD,39
+Saudi Arabian Grand Prix,LEC,1,SOFT,16
+Saudi Arabian Grand Prix,LEC,2,HARD,34
+Saudi Arabian Grand Prix,MAG,1,MEDIUM,8
+Saudi Arabian Grand Prix,MAG,2,HARD,42
+Saudi Arabian Grand Prix,NOR,1,SOFT,2
+Saudi Arabian Grand Prix,NOR,2,HARD,17
+Saudi Arabian Grand Prix,NOR,3,MEDIUM,31
+Saudi Arabian Grand Prix,OCO,1,MEDIUM,16
+Saudi Arabian Grand Prix,OCO,2,HARD,34
+Saudi Arabian Grand Prix,PER,1,MEDIUM,18
+Saudi Arabian Grand Prix,PER,2,HARD,32
+Saudi Arabian Grand Prix,PIA,1,MEDIUM,1
+Saudi Arabian Grand Prix,PIA,2,HARD,49
+Saudi Arabian Grand Prix,RUS,1,MEDIUM,18
+Saudi Arabian Grand Prix,RUS,2,HARD,32
+Saudi Arabian Grand Prix,SAI,1,MEDIUM,15
+Saudi Arabian Grand Prix,SAI,2,HARD,35
+Saudi Arabian Grand Prix,SAR,1,HARD,18
+Saudi Arabian Grand Prix,SAR,2,MEDIUM,32
+Saudi Arabian Grand Prix,STR,1,MEDIUM,13
+Saudi Arabian Grand Prix,STR,2,HARD,4
+Saudi Arabian Grand Prix,TSU,1,MEDIUM,17
+Saudi Arabian Grand Prix,TSU,2,HARD,33
+Saudi Arabian Grand Prix,VER,1,MEDIUM,18
+Saudi Arabian Grand Prix,VER,2,HARD,32
+Saudi Arabian Grand Prix,ZHO,1,MEDIUM,11
+Saudi Arabian Grand Prix,ZHO,2,HARD,7
+Saudi Arabian Grand Prix,ZHO,3,MEDIUM,32
+Singapore Grand Prix,ALB,1,MEDIUM,20
+Singapore Grand Prix,ALB,2,HARD,23
+Singapore Grand Prix,ALB,3,MEDIUM,19
+Singapore Grand Prix,ALO,1,MEDIUM,20
+Singapore Grand Prix,ALO,2,HARD,23
+Singapore Grand Prix,ALO,3,SOFT,20
+Singapore Grand Prix,BOT,1,HARD,40
+Singapore Grand Prix,BOT,2,MEDIUM,11
+Singapore Grand Prix,GAS,1,MEDIUM,20
+Singapore Grand Prix,GAS,2,HARD,42
+Singapore Grand Prix,HAM,1,MEDIUM,20
+Singapore Grand Prix,HAM,2,HARD,23
+Singapore Grand Prix,HAM,3,MEDIUM,18
+Singapore Grand Prix,HUL,1,MEDIUM,20
+Singapore Grand Prix,HUL,2,HARD,42
+Singapore Grand Prix,LAW,1,MEDIUM,20
+Singapore Grand Prix,LAW,2,HARD,42
+Singapore Grand Prix,LEC,1,SOFT,23
+Singapore Grand Prix,LEC,2,HARD,42
+Singapore Grand Prix,MAG,1,MEDIUM,20
+Singapore Grand Prix,MAG,2,HARD,23
+Singapore Grand Prix,MAG,3,SOFT,22
+Singapore Grand Prix,NOR,1,MEDIUM,20
+Singapore Grand Prix,NOR,2,HARD,42
+Singapore Grand Prix,OCO,1,MEDIUM,20
+Singapore Grand Prix,OCO,2,HARD,22
+Singapore Grand Prix,PER,1,HARD,39
+Singapore Grand Prix,PER,2,MEDIUM,23
+Singapore Grand Prix,PIA,1,MEDIUM,20
+Singapore Grand Prix,PIA,2,HARD,42
+Singapore Grand Prix,RUS,1,MEDIUM,20
+Singapore Grand Prix,RUS,2,HARD,23
+Singapore Grand Prix,RUS,3,MEDIUM,17
+Singapore Grand Prix,SAI,1,MEDIUM,20
+Singapore Grand Prix,SAI,2,HARD,42
+Singapore Grand Prix,SAR,1,MEDIUM,18
+Singapore Grand Prix,SAR,2,HARD,24
+Singapore Grand Prix,SAR,3,MEDIUM,19
+Singapore Grand Prix,VER,1,HARD,40
+Singapore Grand Prix,VER,2,MEDIUM,22
+Singapore Grand Prix,ZHO,1,SOFT,2
+Singapore Grand Prix,ZHO,2,HARD,18
+Singapore Grand Prix,ZHO,3,MEDIUM,42
+Spanish Grand Prix,ALB,1,SOFT,16
+Spanish Grand Prix,ALB,2,HARD,21
+Spanish Grand Prix,ALB,3,MEDIUM,28
+Spanish Grand Prix,ALO,1,SOFT,22
+Spanish Grand Prix,ALO,2,SOFT,28
+Spanish Grand Prix,ALO,3,HARD,22
+Spanish Grand Prix,BOT,1,SOFT,5
+Spanish Grand Prix,BOT,2,HARD,34
+Spanish Grand Prix,BOT,3,HARD,26
+Spanish Grand Prix,DEV,1,SOFT,9
+Spanish Grand Prix,DEV,2,HARD,29
+Spanish Grand Prix,DEV,3,MEDIUM,27
+Spanish Grand Prix,GAS,1,SOFT,22
+Spanish Grand Prix,GAS,2,MEDIUM,20
+Spanish Grand Prix,GAS,3,HARD,27
+Spanish Grand Prix,HAM,1,SOFT,27
+Spanish Grand Prix,HAM,2,MEDIUM,26
+Spanish Grand Prix,HAM,3,SOFT,19
+Spanish Grand Prix,HUL,1,SOFT,11
+Spanish Grand Prix,HUL,2,MEDIUM,18
+Spanish Grand Prix,HUL,3,HARD,17
+Spanish Grand Prix,HUL,4,MEDIUM,22
+Spanish Grand Prix,LEC,1,HARD,16
+Spanish Grand Prix,LEC,2,SOFT,25
+Spanish Grand Prix,LEC,3,HARD,50
+Spanish Grand Prix,MAG,1,SOFT,10
+Spanish Grand Prix,MAG,2,MEDIUM,14
+Spanish Grand Prix,MAG,3,HARD,18
+Spanish Grand Prix,MAG,4,MEDIUM,23
+Spanish Grand Prix,NOR,1,SOFT,3
+Spanish Grand Prix,NOR,2,HARD,21
+Spanish Grand Prix,NOR,3,MEDIUM,28
+Spanish Grand Prix,NOR,4,SOFT,18
+Spanish Grand Prix,OCO,1,SOFT,16
+Spanish Grand Prix,OCO,2,MEDIUM,22
+Spanish Grand Prix,OCO,3,HARD,31
+Spanish Grand Prix,PER,1,MEDIUM,27
+Spanish Grand Prix,PER,2,HARD,23
+Spanish Grand Prix,PER,3,SOFT,16
+Spanish Grand Prix,PIA,1,SOFT,19
+Spanish Grand Prix,PIA,2,HARD,22
+Spanish Grand Prix,PIA,3,MEDIUM,26
+Spanish Grand Prix,RUS,1,SOFT,25
+Spanish Grand Prix,RUS,2,MEDIUM,20
+Spanish Grand Prix,RUS,3,SOFT,24
+Spanish Grand Prix,SAI,1,SOFT,18
+Spanish Grand Prix,SAI,2,MEDIUM,26
+Spanish Grand Prix,SAI,3,HARD,25
+Spanish Grand Prix,SAR,1,MEDIUM,17
+Spanish Grand Prix,SAR,2,HARD,19
+Spanish Grand Prix,SAR,3,HARD,29
+Spanish Grand Prix,STR,1,SOFT,17
+Spanish Grand Prix,STR,2,SOFT,23
+Spanish Grand Prix,STR,3,HARD,32
+Spanish Grand Prix,TSU,1,SOFT,10
+Spanish Grand Prix,TSU,2,HARD,24
+Spanish Grand Prix,TSU,3,MEDIUM,32
+Spanish Grand Prix,VER,1,MEDIUM,26
+Spanish Grand Prix,VER,2,HARD,26
+Spanish Grand Prix,VER,3,SOFT,16
+Spanish Grand Prix,ZHO,1,SOFT,9
+Spanish Grand Prix,ZHO,2,HARD,27
+Spanish Grand Prix,ZHO,3,HARD,30
+São Paulo Grand Prix,ALB,1,MEDIUM,16
+São Paulo Grand Prix,ALB,2,HARD,34
+São Paulo Grand Prix,ALO,2,HARD,26
+São Paulo Grand Prix,ALO,3,HARD,24
+São Paulo Grand Prix,BOT,2,HARD,23
+São Paulo Grand Prix,BOT,3,MEDIUM,26
+São Paulo Grand Prix,GAS,1,MEDIUM,17
+São Paulo Grand Prix,GAS,2,HARD,33
+São Paulo Grand Prix,HAM,1,HARD,17
+São Paulo Grand Prix,HAM,2,MEDIUM,9
+São Paulo Grand Prix,HAM,3,HARD,24
+São Paulo Grand Prix,HUL,1,MEDIUM,12
+São Paulo Grand Prix,HUL,2,HARD,14
+São Paulo Grand Prix,HUL,3,HARD,19
+São Paulo Grand Prix,LEC,1,MEDIUM,21
+São Paulo Grand Prix,LEC,2,HARD,29
+São Paulo Grand Prix,MAG,1,MEDIUM,14
+São Paulo Grand Prix,MAG,2,HARD,12
+São Paulo Grand Prix,MAG,3,HARD,24
+São Paulo Grand Prix,NOR,1,MEDIUM,3
+São Paulo Grand Prix,OCO,1,MEDIUM,20
+São Paulo Grand Prix,OCO,2,HARD,30
+São Paulo Grand Prix,PER,1,MEDIUM,1
+São Paulo Grand Prix,PER,2,HARD,25
+São Paulo Grand Prix,PER,3,HARD,24
+São Paulo Grand Prix,PIA,1,HARD,17
+São Paulo Grand Prix,PIA,2,HARD,28
+São Paulo Grand Prix,PIA,3,MEDIUM,8
+São Paulo Grand Prix,RIC,1,MEDIUM,17
+São Paulo Grand Prix,RIC,2,HARD,33
+São Paulo Grand Prix,RUS,1,MEDIUM,15
+São Paulo Grand Prix,RUS,2,HARD,11
+São Paulo Grand Prix,RUS,3,HARD,24
+São Paulo Grand Prix,SAI,1,MEDIUM,3
+São Paulo Grand Prix,SAI,2,HARD,23
+São Paulo Grand Prix,SAI,3,HARD,24
+São Paulo Grand Prix,SAR,1,MEDIUM,15
+São Paulo Grand Prix,SAR,2,HARD,35
+São Paulo Grand Prix,STR,1,SOFT,7
+São Paulo Grand Prix,STR,2,HARD,24
+São Paulo Grand Prix,STR,3,HARD,24
+São Paulo Grand Prix,TSU,1,SOFT,10
+São Paulo Grand Prix,TSU,2,MEDIUM,11
+São Paulo Grand Prix,TSU,3,HARD,25
+São Paulo Grand Prix,VER,1,MEDIUM,16
+São Paulo Grand Prix,VER,2,HARD,10
+São Paulo Grand Prix,VER,3,HARD,24
+São Paulo Grand Prix,ZHO,1,HARD,26
+São Paulo Grand Prix,ZHO,2,MEDIUM,24
+United States Grand Prix,ALB,1,MEDIUM,13
+United States Grand Prix,ALB,2,HARD,19
+United States Grand Prix,ALB,3,MEDIUM,33
+United States Grand Prix,ALO,1,MEDIUM,19
+United States Grand Prix,ALO,2,MEDIUM,23
+United States Grand Prix,ALO,3,HARD,7
+United States Grand Prix,BOT,1,MEDIUM,10
+United States Grand Prix,BOT,2,HARD,18
+United States Grand Prix,BOT,3,HARD,28
+United States Grand Prix,GAS,1,MEDIUM,18
+United States Grand Prix,GAS,2,MEDIUM,19
+United States Grand Prix,GAS,3,HARD,19
+United States Grand Prix,HAM,1,MEDIUM,20
+United States Grand Prix,HAM,2,HARD,18
+United States Grand Prix,HAM,3,MEDIUM,18
+United States Grand Prix,HUL,1,HARD,19
+United States Grand Prix,HUL,2,MEDIUM,15
+United States Grand Prix,HUL,3,MEDIUM,28
+United States Grand Prix,LEC,1,MEDIUM,23
+United States Grand Prix,LEC,2,HARD,33
+United States Grand Prix,MAG,1,MEDIUM,10
+United States Grand Prix,MAG,2,HARD,19
+United States Grand Prix,MAG,3,MEDIUM,26
+United States Grand Prix,NOR,1,MEDIUM,17
+United States Grand Prix,NOR,2,HARD,17
+United States Grand Prix,NOR,3,HARD,22
+United States Grand Prix,OCO,1,MEDIUM,6
+United States Grand Prix,PER,1,MEDIUM,17
+United States Grand Prix,PER,2,MEDIUM,20
+United States Grand Prix,PER,3,HARD,19
+United States Grand Prix,PIA,1,MEDIUM,10
+United States Grand Prix,RIC,1,MEDIUM,22
+United States Grand Prix,RIC,2,HARD,25
+United States Grand Prix,RIC,3,SOFT,8
+United States Grand Prix,RUS,1,MEDIUM,21
+United States Grand Prix,RUS,2,HARD,18
+United States Grand Prix,RUS,3,MEDIUM,17
+United States Grand Prix,SAI,1,MEDIUM,17
+United States Grand Prix,SAI,2,MEDIUM,18
+United States Grand Prix,SAI,3,HARD,21
+United States Grand Prix,SAR,1,MEDIUM,11
+United States Grand Prix,SAR,2,HARD,21
+United States Grand Prix,SAR,3,MEDIUM,24
+United States Grand Prix,STR,1,HARD,20
+United States Grand Prix,STR,2,MEDIUM,20
+United States Grand Prix,STR,3,MEDIUM,16
+United States Grand Prix,TSU,1,MEDIUM,17
+United States Grand Prix,TSU,2,HARD,17
+United States Grand Prix,TSU,3,MEDIUM,20
+United States Grand Prix,TSU,4,SOFT,2
+United States Grand Prix,VER,1,MEDIUM,16
+United States Grand Prix,VER,2,MEDIUM,19
+United States Grand Prix,VER,3,HARD,21
+United States Grand Prix,ZHO,1,MEDIUM,9
+United States Grand Prix,ZHO,2,HARD,18
+United States Grand Prix,ZHO,3,HARD,28
