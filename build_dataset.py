@@ -43,7 +43,7 @@ def save_df(df, filepath):
 
 
 # Enable F1_cache to speed up data retrieval
-fastf1.Cache.enable_cache("f1_cache")
+fastf1.Cache.enable_cache("D:/F1-Tyre-Strategy-Engine data/f1_cache")
 
 session_order = ['FP1', 'FP2', 'FP3', 'Q', 'R']
 
@@ -401,43 +401,48 @@ def main():
 
     if run_driver != "Y":
 
-        print("Pipeline stopped.")
-        return
+        driver_df = pd.read_csv(
+            f"{base_path}/cleaned/driver_cleaned.csv"
+        )
 
-    # -------------------------
-    # Collect Driver Data
-    # -------------------------
+        print("Loaded existing driver data.")
 
-    driver_df = collect_driver_data(year)
+    else:
 
-    save_df(
-        driver_df,
-        f"{base_path}/raw/driver_raw.csv"
-    )
+        # -------------------------
+        # Collect Driver Data
+        # -------------------------
 
-    # -------------------------
-    # Clean Driver Data
-    # -------------------------
+            driver_df = collect_driver_data(year)
 
-    driver_df = clean_driver_data(driver_df)
+            save_df(
+            driver_df,
+            f"{base_path}/raw/driver_raw.csv"
+        )
 
-    save_df(
-        driver_df,
-        f"{base_path}/cleaned/driver_cleaned.csv"
-    )
+        # -------------------------
+        # Clean Driver Data
+        # -------------------------
 
-    # -------------------------
-    # Apply Session Ordering
-    # -------------------------
+            driver_df = clean_driver_data(driver_df)
 
-    driver_df = apply_session_order(driver_df)
+            save_df(
+            driver_df,
+            f"{base_path}/cleaned/driver_cleaned.csv"
+        )
 
-    save_df(
-        driver_df,
-        f"{base_path}/sessioned/driver_sessioned.csv"
-    )
+        # -------------------------
+        # Apply Session Ordering
+        # -------------------------
 
-    print("Driver pipeline completed.")
+            driver_df = apply_session_order(driver_df)
+
+            save_df(
+            driver_df,
+            f"{base_path}/sessioned/driver_sessioned.csv"
+        )
+
+            print("Driver pipeline completed.")
 
     run_weather = input(
         "Collect and clean weather data? (Y/N): "

@@ -51,19 +51,23 @@ def evaluate_strategies(
 
         balance_score = float(
             round(
-                np.std(
-                    result["predicted_stints"]
-                ),
+                np.std(result["predicted_stints"]),
                 2
             )
         )
 
-        result["balance_score"] = (
-            balance_score
-        )
+        result["balance_score"] = balance_score
 
-        results.append(
-            result
-        )
+        results.append(result)
 
-    return results
+    results.sort(
+        key=lambda x: (
+            x["balance_score"],
+            x["predicted_stints"][-1]
+        )
+    )
+
+    return results[:top_n]
+
+
+    
