@@ -1,0 +1,1229 @@
+GP,Driver,Stint,YellowLaps,SCLaps,VSCLaps,RedFlagLaps
+Abu Dhabi Grand Prix,ALB,1,0,0,0,0
+Abu Dhabi Grand Prix,ALB,2,0,0,0,0
+Abu Dhabi Grand Prix,ALB,3,0,0,0,0
+Abu Dhabi Grand Prix,ALO,1,0,0,0,0
+Abu Dhabi Grand Prix,ALO,2,0,0,0,0
+Abu Dhabi Grand Prix,ANT,1,0,0,0,0
+Abu Dhabi Grand Prix,ANT,2,0,0,0,0
+Abu Dhabi Grand Prix,BEA,1,0,0,0,0
+Abu Dhabi Grand Prix,BEA,2,0,0,0,0
+Abu Dhabi Grand Prix,BOR,1,0,0,0,0
+Abu Dhabi Grand Prix,BOR,2,0,0,0,0
+Abu Dhabi Grand Prix,COL,1,0,0,0,0
+Abu Dhabi Grand Prix,COL,2,0,0,0,0
+Abu Dhabi Grand Prix,COL,3,0,0,0,0
+Abu Dhabi Grand Prix,GAS,1,0,0,0,0
+Abu Dhabi Grand Prix,GAS,2,0,0,0,0
+Abu Dhabi Grand Prix,GAS,3,0,0,0,0
+Abu Dhabi Grand Prix,HAD,1,0,0,0,0
+Abu Dhabi Grand Prix,HAD,2,0,0,0,0
+Abu Dhabi Grand Prix,HAM,1,0,0,0,0
+Abu Dhabi Grand Prix,HAM,2,0,0,0,0
+Abu Dhabi Grand Prix,HAM,3,0,0,0,0
+Abu Dhabi Grand Prix,HUL,1,0,0,0,0
+Abu Dhabi Grand Prix,HUL,2,0,0,0,0
+Abu Dhabi Grand Prix,HUL,3,0,0,0,0
+Abu Dhabi Grand Prix,LAW,1,0,0,0,0
+Abu Dhabi Grand Prix,LAW,2,0,0,0,0
+Abu Dhabi Grand Prix,LEC,1,0,0,0,0
+Abu Dhabi Grand Prix,LEC,2,0,0,0,0
+Abu Dhabi Grand Prix,LEC,3,0,0,0,0
+Abu Dhabi Grand Prix,NOR,1,0,0,0,0
+Abu Dhabi Grand Prix,NOR,2,0,0,0,0
+Abu Dhabi Grand Prix,NOR,3,0,0,0,0
+Abu Dhabi Grand Prix,OCO,1,0,0,0,0
+Abu Dhabi Grand Prix,OCO,2,0,0,0,0
+Abu Dhabi Grand Prix,PIA,1,0,0,0,0
+Abu Dhabi Grand Prix,PIA,2,0,0,0,0
+Abu Dhabi Grand Prix,RUS,1,0,0,0,0
+Abu Dhabi Grand Prix,RUS,2,0,0,0,0
+Abu Dhabi Grand Prix,SAI,1,0,0,0,0
+Abu Dhabi Grand Prix,SAI,2,0,0,0,0
+Abu Dhabi Grand Prix,STR,1,0,0,0,0
+Abu Dhabi Grand Prix,STR,2,0,0,0,0
+Abu Dhabi Grand Prix,TSU,1,0,0,0,0
+Abu Dhabi Grand Prix,TSU,2,0,0,0,0
+Abu Dhabi Grand Prix,VER,1,0,0,0,0
+Abu Dhabi Grand Prix,VER,2,0,0,0,0
+Australian Grand Prix,ALB,1,1,1,0,0
+Australian Grand Prix,ALB,4,1,2,0,0
+Australian Grand Prix,ALB,5,1,6,0,0
+Australian Grand Prix,ALB,6,2,3,0,0
+Australian Grand Prix,ALO,1,1,1,0,0
+Australian Grand Prix,ALO,4,0,1,0,0
+Australian Grand Prix,ANT,4,1,2,0,0
+Australian Grand Prix,ANT,5,1,6,0,0
+Australian Grand Prix,ANT,6,2,3,0,0
+Australian Grand Prix,BEA,4,2,7,0,0
+Australian Grand Prix,BEA,5,1,2,0,0
+Australian Grand Prix,BEA,6,1,5,0,0
+Australian Grand Prix,BOR,4,1,2,0,0
+Australian Grand Prix,BOR,5,1,6,0,0
+Australian Grand Prix,BOR,6,1,0,0,0
+Australian Grand Prix,GAS,1,1,1,0,0
+Australian Grand Prix,GAS,4,1,2,0,0
+Australian Grand Prix,GAS,5,2,6,0,0
+Australian Grand Prix,GAS,6,1,4,0,0
+Australian Grand Prix,HAM,1,1,1,0,0
+Australian Grand Prix,HAM,4,1,2,0,0
+Australian Grand Prix,HAM,5,2,6,0,0
+Australian Grand Prix,HAM,6,0,3,0,0
+Australian Grand Prix,HUL,4,1,2,0,0
+Australian Grand Prix,HUL,5,1,7,0,0
+Australian Grand Prix,HUL,6,2,3,0,0
+Australian Grand Prix,LAW,4,1,3,0,0
+Australian Grand Prix,LAW,5,2,7,0,0
+Australian Grand Prix,LEC,1,1,1,0,0
+Australian Grand Prix,LEC,4,1,3,0,0
+Australian Grand Prix,LEC,5,2,5,0,0
+Australian Grand Prix,LEC,6,0,2,0,0
+Australian Grand Prix,NOR,1,1,1,0,0
+Australian Grand Prix,NOR,4,1,2,0,0
+Australian Grand Prix,NOR,5,1,5,0,0
+Australian Grand Prix,NOR,6,2,3,0,0
+Australian Grand Prix,OCO,4,2,7,0,0
+Australian Grand Prix,OCO,5,2,2,0,0
+Australian Grand Prix,OCO,6,0,5,0,0
+Australian Grand Prix,PIA,1,1,1,0,0
+Australian Grand Prix,PIA,4,1,2,0,0
+Australian Grand Prix,PIA,5,0,5,0,0
+Australian Grand Prix,PIA,6,1,6,0,0
+Australian Grand Prix,RUS,1,1,1,0,0
+Australian Grand Prix,RUS,4,1,3,0,0
+Australian Grand Prix,RUS,5,1,5,0,0
+Australian Grand Prix,RUS,6,2,3,0,0
+Australian Grand Prix,STR,4,1,2,0,0
+Australian Grand Prix,STR,5,1,7,0,0
+Australian Grand Prix,STR,6,2,3,0,0
+Australian Grand Prix,TSU,1,1,1,0,0
+Australian Grand Prix,TSU,4,1,2,0,0
+Australian Grand Prix,TSU,5,2,6,0,0
+Australian Grand Prix,TSU,6,0,2,0,0
+Australian Grand Prix,VER,1,1,1,0,0
+Australian Grand Prix,VER,4,2,2,0,0
+Australian Grand Prix,VER,5,2,6,0,0
+Australian Grand Prix,VER,6,1,3,0,0
+Austrian Grand Prix,ALB,1,1,3,0,0
+Austrian Grand Prix,ALB,2,0,0,0,0
+Austrian Grand Prix,ALO,1,2,3,0,0
+Austrian Grand Prix,ALO,2,0,0,0,0
+Austrian Grand Prix,BEA,1,1,3,0,0
+Austrian Grand Prix,BEA,2,1,0,0,0
+Austrian Grand Prix,BEA,3,0,0,0,0
+Austrian Grand Prix,BOR,1,1,3,0,0
+Austrian Grand Prix,BOR,2,1,0,0,0
+Austrian Grand Prix,BOR,3,0,0,0,0
+Austrian Grand Prix,COL,1,1,3,0,0
+Austrian Grand Prix,COL,2,1,0,0,0
+Austrian Grand Prix,COL,3,0,0,0,0
+Austrian Grand Prix,GAS,1,1,3,0,0
+Austrian Grand Prix,GAS,2,1,0,0,0
+Austrian Grand Prix,GAS,3,0,0,0,0
+Austrian Grand Prix,HAD,1,1,2,0,0
+Austrian Grand Prix,HAD,2,0,1,0,0
+Austrian Grand Prix,HAD,3,1,0,0,0
+Austrian Grand Prix,HAM,1,1,3,0,0
+Austrian Grand Prix,HAM,2,1,0,0,0
+Austrian Grand Prix,HAM,3,0,0,0,0
+Austrian Grand Prix,HUL,1,1,3,0,0
+Austrian Grand Prix,HUL,2,1,0,0,0
+Austrian Grand Prix,HUL,3,0,0,0,0
+Austrian Grand Prix,LAW,1,2,3,0,0
+Austrian Grand Prix,LAW,2,0,0,0,0
+Austrian Grand Prix,LEC,1,1,3,0,0
+Austrian Grand Prix,LEC,2,1,0,0,0
+Austrian Grand Prix,LEC,3,0,0,0,0
+Austrian Grand Prix,NOR,1,1,3,0,0
+Austrian Grand Prix,NOR,2,1,0,0,0
+Austrian Grand Prix,NOR,3,0,0,0,0
+Austrian Grand Prix,OCO,1,1,3,0,0
+Austrian Grand Prix,OCO,2,1,0,0,0
+Austrian Grand Prix,OCO,3,0,0,0,0
+Austrian Grand Prix,PIA,1,1,3,0,0
+Austrian Grand Prix,PIA,2,1,0,0,0
+Austrian Grand Prix,PIA,3,0,0,0,0
+Austrian Grand Prix,RUS,1,1,3,0,0
+Austrian Grand Prix,RUS,2,1,0,0,0
+Austrian Grand Prix,RUS,3,0,0,0,0
+Austrian Grand Prix,STR,1,1,3,0,0
+Austrian Grand Prix,STR,2,1,0,0,0
+Austrian Grand Prix,STR,3,0,0,0,0
+Austrian Grand Prix,TSU,1,1,3,0,0
+Austrian Grand Prix,TSU,2,1,0,0,0
+Austrian Grand Prix,TSU,3,0,0,0,0
+Austrian Grand Prix,TSU,4,0,0,0,0
+Azerbaijan Grand Prix,ALB,2,1,0,0,0
+Azerbaijan Grand Prix,ALB,3,2,0,0,0
+Azerbaijan Grand Prix,ALO,1,3,0,0,0
+Azerbaijan Grand Prix,ALO,2,0,0,0,0
+Azerbaijan Grand Prix,ANT,1,4,1,0,0
+Azerbaijan Grand Prix,ANT,2,1,0,0,0
+Azerbaijan Grand Prix,BEA,1,3,0,0,0
+Azerbaijan Grand Prix,BEA,2,0,0,0,0
+Azerbaijan Grand Prix,BOR,1,3,0,0,0
+Azerbaijan Grand Prix,BOR,2,0,0,0,0
+Azerbaijan Grand Prix,COL,1,1,0,0,0
+Azerbaijan Grand Prix,COL,2,2,0,0,0
+Azerbaijan Grand Prix,GAS,1,3,0,0,0
+Azerbaijan Grand Prix,GAS,2,0,0,0,0
+Azerbaijan Grand Prix,HAD,1,3,0,0,0
+Azerbaijan Grand Prix,HAD,2,0,0,0,0
+Azerbaijan Grand Prix,HAM,1,3,0,0,0
+Azerbaijan Grand Prix,HAM,2,0,0,0,0
+Azerbaijan Grand Prix,HUL,1,3,0,0,0
+Azerbaijan Grand Prix,HUL,2,0,0,0,0
+Azerbaijan Grand Prix,LAW,1,5,1,0,0
+Azerbaijan Grand Prix,LAW,2,0,0,0,0
+Azerbaijan Grand Prix,LEC,1,4,0,0,0
+Azerbaijan Grand Prix,LEC,2,0,0,0,0
+Azerbaijan Grand Prix,NOR,1,3,0,0,0
+Azerbaijan Grand Prix,NOR,2,0,0,0,0
+Azerbaijan Grand Prix,OCO,3,3,0,0,0
+Azerbaijan Grand Prix,RUS,1,5,1,0,0
+Azerbaijan Grand Prix,RUS,2,0,0,0,0
+Azerbaijan Grand Prix,SAI,1,5,1,0,0
+Azerbaijan Grand Prix,SAI,2,0,0,0,0
+Azerbaijan Grand Prix,STR,1,3,0,0,0
+Azerbaijan Grand Prix,STR,2,0,0,0,0
+Azerbaijan Grand Prix,TSU,1,5,1,0,0
+Azerbaijan Grand Prix,TSU,2,0,0,0,0
+Azerbaijan Grand Prix,VER,1,4,1,0,0
+Azerbaijan Grand Prix,VER,2,0,0,0,0
+Bahrain Grand Prix,ALB,1,0,0,0,0
+Bahrain Grand Prix,ALB,2,0,1,0,0
+Bahrain Grand Prix,ALB,3,0,2,0,0
+Bahrain Grand Prix,ALO,1,0,0,0,0
+Bahrain Grand Prix,ALO,2,0,1,0,0
+Bahrain Grand Prix,ALO,3,0,2,0,0
+Bahrain Grand Prix,ANT,1,0,0,0,0
+Bahrain Grand Prix,ANT,2,0,0,0,0
+Bahrain Grand Prix,ANT,3,0,1,0,0
+Bahrain Grand Prix,ANT,4,0,2,0,0
+Bahrain Grand Prix,BEA,1,0,0,0,0
+Bahrain Grand Prix,BEA,2,0,1,0,0
+Bahrain Grand Prix,BEA,3,0,2,0,0
+Bahrain Grand Prix,BOR,1,0,0,0,0
+Bahrain Grand Prix,BOR,2,0,1,0,0
+Bahrain Grand Prix,BOR,3,0,2,0,0
+Bahrain Grand Prix,DOO,1,0,0,0,0
+Bahrain Grand Prix,DOO,2,0,0,0,0
+Bahrain Grand Prix,DOO,3,0,4,0,0
+Bahrain Grand Prix,GAS,1,0,0,0,0
+Bahrain Grand Prix,GAS,2,0,0,0,0
+Bahrain Grand Prix,GAS,3,0,3,0,0
+Bahrain Grand Prix,HAD,1,0,0,0,0
+Bahrain Grand Prix,HAD,2,0,0,0,0
+Bahrain Grand Prix,HAD,3,0,4,0,0
+Bahrain Grand Prix,HAM,1,0,0,0,0
+Bahrain Grand Prix,HAM,2,0,1,0,0
+Bahrain Grand Prix,HAM,3,0,1,0,0
+Bahrain Grand Prix,HUL,1,0,0,0,0
+Bahrain Grand Prix,HUL,2,0,0,0,0
+Bahrain Grand Prix,HUL,3,0,4,0,0
+Bahrain Grand Prix,LAW,1,0,0,0,0
+Bahrain Grand Prix,LAW,2,0,1,0,0
+Bahrain Grand Prix,LAW,3,0,2,0,0
+Bahrain Grand Prix,LEC,1,0,0,0,0
+Bahrain Grand Prix,LEC,2,0,1,0,0
+Bahrain Grand Prix,LEC,3,0,0,0,0
+Bahrain Grand Prix,NOR,1,0,0,0,0
+Bahrain Grand Prix,NOR,2,0,1,0,0
+Bahrain Grand Prix,NOR,3,0,0,0,0
+Bahrain Grand Prix,OCO,1,0,0,0,0
+Bahrain Grand Prix,OCO,2,0,0,0,0
+Bahrain Grand Prix,OCO,3,0,3,0,0
+Bahrain Grand Prix,PIA,1,0,0,0,0
+Bahrain Grand Prix,PIA,2,0,1,0,0
+Bahrain Grand Prix,PIA,3,0,0,0,0
+Bahrain Grand Prix,RUS,1,0,0,0,0
+Bahrain Grand Prix,RUS,2,0,1,0,0
+Bahrain Grand Prix,RUS,3,0,0,0,0
+Bahrain Grand Prix,SAI,1,0,0,0,0
+Bahrain Grand Prix,SAI,2,0,1,0,0
+Bahrain Grand Prix,SAI,3,0,2,0,0
+Bahrain Grand Prix,SAI,4,0,0,0,0
+Bahrain Grand Prix,STR,1,0,0,0,0
+Bahrain Grand Prix,STR,2,0,1,0,0
+Bahrain Grand Prix,STR,3,0,2,0,0
+Bahrain Grand Prix,TSU,1,0,0,0,0
+Bahrain Grand Prix,TSU,2,0,1,0,0
+Bahrain Grand Prix,TSU,3,0,2,0,0
+Bahrain Grand Prix,VER,1,0,0,0,0
+Bahrain Grand Prix,VER,2,0,0,0,0
+Bahrain Grand Prix,VER,3,0,3,0,0
+Belgian Grand Prix,ALB,1,0,0,0,0
+Belgian Grand Prix,ALB,2,0,0,0,0
+Belgian Grand Prix,ALO,1,0,0,0,0
+Belgian Grand Prix,ALO,2,0,0,0,0
+Belgian Grand Prix,ANT,1,0,0,0,0
+Belgian Grand Prix,ANT,2,0,0,0,0
+Belgian Grand Prix,BEA,1,0,0,0,0
+Belgian Grand Prix,BEA,2,0,0,0,0
+Belgian Grand Prix,BOR,1,0,0,0,0
+Belgian Grand Prix,BOR,2,0,0,0,0
+Belgian Grand Prix,COL,1,0,0,0,0
+Belgian Grand Prix,COL,2,0,0,0,0
+Belgian Grand Prix,GAS,1,0,0,0,0
+Belgian Grand Prix,GAS,2,0,0,0,0
+Belgian Grand Prix,HAD,1,0,0,0,0
+Belgian Grand Prix,HAD,2,0,0,0,0
+Belgian Grand Prix,HAD,3,0,0,0,0
+Belgian Grand Prix,HAM,1,0,0,0,0
+Belgian Grand Prix,HAM,2,0,0,0,0
+Belgian Grand Prix,HUL,1,0,0,0,0
+Belgian Grand Prix,HUL,2,0,0,0,0
+Belgian Grand Prix,LAW,1,0,0,0,0
+Belgian Grand Prix,LAW,2,0,0,0,0
+Belgian Grand Prix,LEC,1,0,0,0,0
+Belgian Grand Prix,LEC,2,0,0,0,0
+Belgian Grand Prix,NOR,1,0,0,0,0
+Belgian Grand Prix,NOR,2,0,0,0,0
+Belgian Grand Prix,OCO,1,0,0,0,0
+Belgian Grand Prix,OCO,2,0,0,0,0
+Belgian Grand Prix,PIA,1,0,0,0,0
+Belgian Grand Prix,PIA,2,0,0,0,0
+Belgian Grand Prix,RUS,1,0,0,0,0
+Belgian Grand Prix,RUS,2,0,0,0,0
+Belgian Grand Prix,SAI,1,0,0,0,0
+Belgian Grand Prix,SAI,2,0,0,0,0
+Belgian Grand Prix,SAI,3,0,0,0,0
+Belgian Grand Prix,STR,1,0,0,0,0
+Belgian Grand Prix,STR,2,0,0,0,0
+Belgian Grand Prix,TSU,1,0,0,0,0
+Belgian Grand Prix,TSU,2,0,0,0,0
+Belgian Grand Prix,VER,1,0,0,0,0
+Belgian Grand Prix,VER,2,0,0,0,0
+British Grand Prix,ALB,1,3,0,5,0
+British Grand Prix,ALB,2,4,2,0,0
+British Grand Prix,ALB,3,1,0,0,0
+British Grand Prix,ALO,1,4,0,6,0
+British Grand Prix,ALO,2,3,3,0,0
+British Grand Prix,ALO,3,3,0,0,0
+British Grand Prix,ANT,1,2,0,1,0
+British Grand Prix,ANT,2,2,0,4,0
+British Grand Prix,ANT,3,2,3,0,0
+British Grand Prix,ANT,4,1,0,0,0
+British Grand Prix,BEA,1,3,0,6,0
+British Grand Prix,BEA,2,4,4,0,0
+British Grand Prix,BEA,3,2,0,0,0
+British Grand Prix,BOR,1,1,0,3,0
+British Grand Prix,GAS,1,4,0,6,0
+British Grand Prix,GAS,2,5,3,0,0
+British Grand Prix,GAS,3,3,0,0,0
+British Grand Prix,HAD,1,3,0,5,0
+British Grand Prix,HAD,2,1,2,0,0
+British Grand Prix,HAM,1,4,0,6,0
+British Grand Prix,HAM,2,4,3,0,0
+British Grand Prix,HAM,3,3,0,0,0
+British Grand Prix,HUL,1,3,0,5,0
+British Grand Prix,HUL,2,4,2,0,0
+British Grand Prix,HUL,3,2,0,0,0
+British Grand Prix,LEC,1,3,0,6,0
+British Grand Prix,LEC,2,5,3,0,0
+British Grand Prix,LEC,3,0,0,0,0
+British Grand Prix,NOR,1,4,0,5,0
+British Grand Prix,NOR,2,6,1,0,0
+British Grand Prix,NOR,3,0,0,0,0
+British Grand Prix,OCO,1,5,3,5,0
+British Grand Prix,OCO,2,3,0,0,0
+British Grand Prix,OCO,3,1,0,0,0
+British Grand Prix,PIA,1,4,0,5,0
+British Grand Prix,PIA,2,5,2,0,0
+British Grand Prix,PIA,3,1,0,0,0
+British Grand Prix,RUS,1,3,0,6,0
+British Grand Prix,RUS,2,3,3,0,0
+British Grand Prix,RUS,3,3,0,0,0
+British Grand Prix,SAI,1,4,0,6,0
+British Grand Prix,SAI,2,4,3,0,0
+British Grand Prix,SAI,3,2,0,0,0
+British Grand Prix,STR,1,3,0,4,0
+British Grand Prix,STR,2,0,0,1,0
+British Grand Prix,STR,3,5,2,0,0
+British Grand Prix,STR,4,3,0,0,0
+British Grand Prix,TSU,1,3,0,5,0
+British Grand Prix,TSU,2,4,3,0,0
+British Grand Prix,TSU,3,1,0,0,0
+British Grand Prix,VER,1,4,0,5,0
+British Grand Prix,VER,2,4,2,0,0
+British Grand Prix,VER,3,3,0,0,0
+Canadian Grand Prix,ALB,1,0,0,0,0
+Canadian Grand Prix,ALB,2,0,0,0,0
+Canadian Grand Prix,ALO,1,0,0,0,0
+Canadian Grand Prix,ALO,2,1,0,0,0
+Canadian Grand Prix,ALO,3,1,1,0,0
+Canadian Grand Prix,ALO,4,0,1,0,0
+Canadian Grand Prix,ALO,5,0,1,0,0
+Canadian Grand Prix,ALO,6,0,1,0,0
+Canadian Grand Prix,ALO,7,0,1,0,0
+Canadian Grand Prix,ANT,1,0,0,0,0
+Canadian Grand Prix,ANT,2,0,0,0,0
+Canadian Grand Prix,ANT,3,3,1,0,0
+Canadian Grand Prix,ANT,4,0,1,0,0
+Canadian Grand Prix,ANT,5,0,1,0,0
+Canadian Grand Prix,ANT,6,0,1,0,0
+Canadian Grand Prix,BEA,1,0,0,0,0
+Canadian Grand Prix,BEA,2,3,1,0,0
+Canadian Grand Prix,BEA,3,0,1,0,0
+Canadian Grand Prix,BEA,4,0,1,0,0
+Canadian Grand Prix,BEA,5,0,1,0,0
+Canadian Grand Prix,BOR,1,1,0,0,0
+Canadian Grand Prix,BOR,2,2,1,0,0
+Canadian Grand Prix,BOR,3,0,1,0,0
+Canadian Grand Prix,BOR,4,0,1,0,0
+Canadian Grand Prix,BOR,5,0,1,0,0
+Canadian Grand Prix,COL,1,0,0,0,0
+Canadian Grand Prix,COL,2,3,1,0,0
+Canadian Grand Prix,COL,3,0,1,0,0
+Canadian Grand Prix,COL,4,0,1,0,0
+Canadian Grand Prix,COL,5,0,1,0,0
+Canadian Grand Prix,GAS,1,1,0,0,0
+Canadian Grand Prix,GAS,2,2,1,0,0
+Canadian Grand Prix,GAS,3,0,1,0,0
+Canadian Grand Prix,GAS,4,0,1,0,0
+Canadian Grand Prix,GAS,5,0,1,0,0
+Canadian Grand Prix,HAD,1,0,0,0,0
+Canadian Grand Prix,HAD,2,3,1,0,0
+Canadian Grand Prix,HAD,3,0,1,0,0
+Canadian Grand Prix,HAD,4,0,1,0,0
+Canadian Grand Prix,HAD,5,0,1,0,0
+Canadian Grand Prix,HAM,1,0,0,0,0
+Canadian Grand Prix,HAM,2,0,0,0,0
+Canadian Grand Prix,HAM,3,2,2,0,0
+Canadian Grand Prix,HAM,4,0,1,0,0
+Canadian Grand Prix,HAM,5,0,1,0,0
+Canadian Grand Prix,HAM,6,0,1,0,0
+Canadian Grand Prix,HUL,1,0,0,0,0
+Canadian Grand Prix,HUL,2,2,1,0,0
+Canadian Grand Prix,HUL,3,0,1,0,0
+Canadian Grand Prix,HUL,4,0,1,0,0
+Canadian Grand Prix,HUL,5,0,1,0,0
+Canadian Grand Prix,HUL,6,0,1,0,0
+Canadian Grand Prix,LAW,1,0,0,0,0
+Canadian Grand Prix,LAW,2,2,0,0,0
+Canadian Grand Prix,LEC,1,0,0,0,0
+Canadian Grand Prix,LEC,2,2,0,0,0
+Canadian Grand Prix,LEC,3,2,1,0,0
+Canadian Grand Prix,LEC,4,0,1,0,0
+Canadian Grand Prix,LEC,5,0,1,0,0
+Canadian Grand Prix,LEC,6,0,1,0,0
+Canadian Grand Prix,NOR,1,0,0,0,0
+Canadian Grand Prix,NOR,2,0,0,0,0
+Canadian Grand Prix,NOR,3,1,0,0,0
+Canadian Grand Prix,OCO,1,1,0,0,0
+Canadian Grand Prix,OCO,2,2,1,0,0
+Canadian Grand Prix,OCO,3,0,1,0,0
+Canadian Grand Prix,OCO,4,0,1,0,0
+Canadian Grand Prix,OCO,5,0,1,0,0
+Canadian Grand Prix,PIA,1,0,0,0,0
+Canadian Grand Prix,PIA,2,0,0,0,0
+Canadian Grand Prix,PIA,3,3,1,0,0
+Canadian Grand Prix,PIA,4,0,1,0,0
+Canadian Grand Prix,PIA,5,0,1,0,0
+Canadian Grand Prix,PIA,6,0,1,0,0
+Canadian Grand Prix,RUS,1,0,0,0,0
+Canadian Grand Prix,RUS,2,0,0,0,0
+Canadian Grand Prix,RUS,3,3,1,0,0
+Canadian Grand Prix,RUS,4,0,1,0,0
+Canadian Grand Prix,RUS,5,0,1,0,0
+Canadian Grand Prix,RUS,6,0,1,0,0
+Canadian Grand Prix,SAI,1,1,0,0,0
+Canadian Grand Prix,SAI,2,2,1,0,0
+Canadian Grand Prix,SAI,3,0,1,0,0
+Canadian Grand Prix,SAI,4,0,1,0,0
+Canadian Grand Prix,SAI,5,0,1,0,0
+Canadian Grand Prix,STR,1,0,0,0,0
+Canadian Grand Prix,STR,2,1,0,0,0
+Canadian Grand Prix,STR,3,2,1,0,0
+Canadian Grand Prix,STR,4,0,1,0,0
+Canadian Grand Prix,STR,5,0,1,0,0
+Canadian Grand Prix,STR,6,0,1,0,0
+Canadian Grand Prix,TSU,1,1,0,0,0
+Canadian Grand Prix,TSU,2,2,1,0,0
+Canadian Grand Prix,TSU,3,0,1,0,0
+Canadian Grand Prix,TSU,4,0,1,0,0
+Canadian Grand Prix,TSU,5,0,1,0,0
+Canadian Grand Prix,VER,1,0,0,0,0
+Canadian Grand Prix,VER,2,0,0,0,0
+Canadian Grand Prix,VER,3,3,1,0,0
+Canadian Grand Prix,VER,4,0,1,0,0
+Canadian Grand Prix,VER,5,0,1,0,0
+Canadian Grand Prix,VER,6,0,1,0,0
+Chinese Grand Prix,ALB,1,4,0,0,0
+Chinese Grand Prix,ALB,2,0,0,0,0
+Chinese Grand Prix,ALO,1,3,0,0,0
+Chinese Grand Prix,ANT,1,3,0,0,0
+Chinese Grand Prix,ANT,2,0,0,0,0
+Chinese Grand Prix,BEA,1,4,0,0,0
+Chinese Grand Prix,BEA,2,0,0,0,0
+Chinese Grand Prix,BOR,1,1,0,0,0
+Chinese Grand Prix,BOR,2,2,0,0,0
+Chinese Grand Prix,BOR,3,0,0,0,0
+Chinese Grand Prix,DOO,1,4,0,0,0
+Chinese Grand Prix,DOO,2,0,0,0,0
+Chinese Grand Prix,GAS,1,4,0,0,0
+Chinese Grand Prix,GAS,2,0,0,0,0
+Chinese Grand Prix,HAD,1,4,0,0,0
+Chinese Grand Prix,HAD,2,0,0,0,0
+Chinese Grand Prix,HAD,3,0,0,0,0
+Chinese Grand Prix,HAM,1,3,0,0,0
+Chinese Grand Prix,HAM,2,0,0,0,0
+Chinese Grand Prix,HAM,3,0,0,0,0
+Chinese Grand Prix,HUL,1,4,0,0,0
+Chinese Grand Prix,HUL,2,0,0,0,0
+Chinese Grand Prix,LAW,1,4,0,0,0
+Chinese Grand Prix,LAW,2,0,0,0,0
+Chinese Grand Prix,LAW,3,0,0,0,0
+Chinese Grand Prix,LEC,1,3,0,0,0
+Chinese Grand Prix,LEC,2,0,0,0,0
+Chinese Grand Prix,NOR,1,3,0,0,0
+Chinese Grand Prix,NOR,2,0,0,0,0
+Chinese Grand Prix,OCO,1,4,0,0,0
+Chinese Grand Prix,OCO,2,0,0,0,0
+Chinese Grand Prix,PIA,1,3,0,0,0
+Chinese Grand Prix,PIA,2,0,0,0,0
+Chinese Grand Prix,RUS,1,3,0,0,0
+Chinese Grand Prix,RUS,2,0,0,0,0
+Chinese Grand Prix,SAI,1,4,0,0,0
+Chinese Grand Prix,SAI,2,0,0,0,0
+Chinese Grand Prix,STR,1,4,0,0,0
+Chinese Grand Prix,STR,2,0,0,0,0
+Chinese Grand Prix,TSU,1,4,0,0,0
+Chinese Grand Prix,TSU,2,0,0,0,0
+Chinese Grand Prix,TSU,3,0,0,0,0
+Chinese Grand Prix,TSU,4,0,0,0,0
+Chinese Grand Prix,VER,1,3,0,0,0
+Chinese Grand Prix,VER,2,0,0,0,0
+Dutch Grand Prix,ALB,1,1,1,0,0
+Dutch Grand Prix,ALB,2,2,4,2,0
+Dutch Grand Prix,ALB,3,1,8,0,0
+Dutch Grand Prix,ALO,1,0,0,0,0
+Dutch Grand Prix,ALO,2,3,4,2,0
+Dutch Grand Prix,ALO,3,3,9,0,0
+Dutch Grand Prix,ANT,1,1,1,0,0
+Dutch Grand Prix,ANT,2,1,3,2,0
+Dutch Grand Prix,ANT,3,1,1,0,0
+Dutch Grand Prix,ANT,4,1,8,0,0
+Dutch Grand Prix,BEA,1,5,5,2,0
+Dutch Grand Prix,BEA,2,1,8,0,0
+Dutch Grand Prix,BOR,1,1,0,0,0
+Dutch Grand Prix,BOR,2,5,9,2,0
+Dutch Grand Prix,BOR,3,2,4,0,0
+Dutch Grand Prix,COL,1,0,0,0,0
+Dutch Grand Prix,COL,2,6,5,2,0
+Dutch Grand Prix,COL,3,1,5,0,0
+Dutch Grand Prix,COL,4,0,3,0,0
+Dutch Grand Prix,GAS,1,1,1,0,0
+Dutch Grand Prix,GAS,2,4,12,2,0
+Dutch Grand Prix,HAD,1,1,1,0,0
+Dutch Grand Prix,HAD,2,2,4,2,0
+Dutch Grand Prix,HAD,3,1,8,0,0
+Dutch Grand Prix,HAM,1,0,0,0,0
+Dutch Grand Prix,HUL,1,0,0,0,0
+Dutch Grand Prix,HUL,2,5,6,2,0
+Dutch Grand Prix,HUL,3,1,8,0,0
+Dutch Grand Prix,LAW,1,1,1,0,0
+Dutch Grand Prix,LAW,2,0,3,0,0
+Dutch Grand Prix,LAW,3,2,1,2,0
+Dutch Grand Prix,LAW,4,1,9,0,0
+Dutch Grand Prix,LEC,1,0,0,0,0
+Dutch Grand Prix,LEC,2,2,4,2,0
+Dutch Grand Prix,NOR,1,1,1,0,0
+Dutch Grand Prix,NOR,2,2,4,2,0
+Dutch Grand Prix,NOR,3,0,4,0,0
+Dutch Grand Prix,OCO,1,4,4,2,0
+Dutch Grand Prix,OCO,2,2,9,0,0
+Dutch Grand Prix,PIA,1,1,1,0,0
+Dutch Grand Prix,PIA,2,2,4,2,0
+Dutch Grand Prix,PIA,3,1,8,0,0
+Dutch Grand Prix,RUS,1,1,1,0,0
+Dutch Grand Prix,RUS,2,2,4,2,0
+Dutch Grand Prix,RUS,3,1,8,0,0
+Dutch Grand Prix,SAI,1,1,1,0,0
+Dutch Grand Prix,SAI,2,0,3,0,0
+Dutch Grand Prix,SAI,3,1,0,2,0
+Dutch Grand Prix,SAI,4,2,7,0,0
+Dutch Grand Prix,SAI,5,0,3,0,0
+Dutch Grand Prix,STR,1,0,0,0,0
+Dutch Grand Prix,STR,2,4,4,2,0
+Dutch Grand Prix,STR,3,2,9,0,0
+Dutch Grand Prix,TSU,1,0,0,0,0
+Dutch Grand Prix,TSU,2,5,5,2,0
+Dutch Grand Prix,TSU,3,1,8,0,0
+Dutch Grand Prix,VER,1,1,1,0,0
+Dutch Grand Prix,VER,2,2,4,2,0
+Dutch Grand Prix,VER,3,1,8,0,0
+Emilia Romagna Grand Prix,ALB,1,1,0,1,0
+Emilia Romagna Grand Prix,ALB,2,2,2,2,0
+Emilia Romagna Grand Prix,ALB,3,0,6,0,0
+Emilia Romagna Grand Prix,ALO,1,0,0,0,0
+Emilia Romagna Grand Prix,ALO,2,3,2,3,0
+Emilia Romagna Grand Prix,ALO,3,0,7,0,0
+Emilia Romagna Grand Prix,ANT,1,1,0,1,0
+Emilia Romagna Grand Prix,ANT,2,0,0,2,0
+Emilia Romagna Grand Prix,BEA,1,2,0,1,0
+Emilia Romagna Grand Prix,BEA,2,0,0,1,0
+Emilia Romagna Grand Prix,BEA,3,1,9,0,0
+Emilia Romagna Grand Prix,BOR,1,0,0,0,0
+Emilia Romagna Grand Prix,BOR,2,2,0,1,0
+Emilia Romagna Grand Prix,BOR,3,1,2,1,0
+Emilia Romagna Grand Prix,BOR,4,0,7,0,0
+Emilia Romagna Grand Prix,COL,1,0,0,0,0
+Emilia Romagna Grand Prix,COL,2,2,2,3,0
+Emilia Romagna Grand Prix,COL,3,0,7,0,0
+Emilia Romagna Grand Prix,GAS,1,0,0,0,0
+Emilia Romagna Grand Prix,GAS,2,2,0,1,0
+Emilia Romagna Grand Prix,GAS,3,1,9,1,0
+Emilia Romagna Grand Prix,HAD,1,1,0,1,0
+Emilia Romagna Grand Prix,HAD,2,2,1,2,0
+Emilia Romagna Grand Prix,HAD,3,0,7,0,0
+Emilia Romagna Grand Prix,HAM,1,1,0,1,0
+Emilia Romagna Grand Prix,HAM,2,2,1,2,0
+Emilia Romagna Grand Prix,HAM,3,0,7,0,0
+Emilia Romagna Grand Prix,HUL,1,2,0,1,0
+Emilia Romagna Grand Prix,HUL,2,1,9,2,0
+Emilia Romagna Grand Prix,LAW,1,0,0,0,0
+Emilia Romagna Grand Prix,LAW,2,2,0,1,0
+Emilia Romagna Grand Prix,LAW,3,1,9,1,0
+Emilia Romagna Grand Prix,LEC,1,0,0,0,0
+Emilia Romagna Grand Prix,LEC,2,1,0,1,0
+Emilia Romagna Grand Prix,LEC,3,2,8,2,0
+Emilia Romagna Grand Prix,NOR,1,0,0,0,0
+Emilia Romagna Grand Prix,NOR,2,2,1,3,0
+Emilia Romagna Grand Prix,NOR,3,0,7,0,0
+Emilia Romagna Grand Prix,OCO,1,0,0,0,0
+Emilia Romagna Grand Prix,OCO,2,0,0,0,0
+Emilia Romagna Grand Prix,PIA,1,0,0,0,0
+Emilia Romagna Grand Prix,PIA,2,1,0,2,0
+Emilia Romagna Grand Prix,PIA,3,1,8,1,0
+Emilia Romagna Grand Prix,RUS,1,0,0,0,0
+Emilia Romagna Grand Prix,RUS,2,2,0,1,0
+Emilia Romagna Grand Prix,RUS,3,1,9,1,0
+Emilia Romagna Grand Prix,SAI,1,0,0,0,0
+Emilia Romagna Grand Prix,SAI,2,2,0,1,0
+Emilia Romagna Grand Prix,SAI,3,1,9,1,0
+Emilia Romagna Grand Prix,STR,1,0,0,0,0
+Emilia Romagna Grand Prix,STR,2,3,2,3,0
+Emilia Romagna Grand Prix,STR,3,0,7,0,0
+Emilia Romagna Grand Prix,TSU,1,2,0,1,0
+Emilia Romagna Grand Prix,TSU,2,1,9,1,0
+Emilia Romagna Grand Prix,VER,1,1,0,1,0
+Emilia Romagna Grand Prix,VER,2,1,1,2,0
+Emilia Romagna Grand Prix,VER,3,0,7,0,0
+Hungarian Grand Prix,ALB,1,0,0,0,0
+Hungarian Grand Prix,ALB,2,0,0,0,0
+Hungarian Grand Prix,ALB,3,0,0,0,0
+Hungarian Grand Prix,ALO,1,0,0,0,0
+Hungarian Grand Prix,ALO,2,0,0,0,0
+Hungarian Grand Prix,ANT,1,0,0,0,0
+Hungarian Grand Prix,ANT,2,0,0,0,0
+Hungarian Grand Prix,BEA,1,0,0,0,0
+Hungarian Grand Prix,BEA,2,0,0,0,0
+Hungarian Grand Prix,BOR,1,0,0,0,0
+Hungarian Grand Prix,BOR,2,0,0,0,0
+Hungarian Grand Prix,COL,1,0,0,0,0
+Hungarian Grand Prix,COL,2,0,0,0,0
+Hungarian Grand Prix,COL,3,0,0,0,0
+Hungarian Grand Prix,GAS,1,0,0,0,0
+Hungarian Grand Prix,GAS,2,0,0,0,0
+Hungarian Grand Prix,HAD,1,0,0,0,0
+Hungarian Grand Prix,HAD,2,0,0,0,0
+Hungarian Grand Prix,HAM,1,0,0,0,0
+Hungarian Grand Prix,HAM,2,0,0,0,0
+Hungarian Grand Prix,HUL,1,0,0,0,0
+Hungarian Grand Prix,HUL,2,0,0,0,0
+Hungarian Grand Prix,HUL,3,0,0,0,0
+Hungarian Grand Prix,LAW,1,0,0,0,0
+Hungarian Grand Prix,LAW,2,0,0,0,0
+Hungarian Grand Prix,LEC,1,0,0,0,0
+Hungarian Grand Prix,LEC,2,0,0,0,0
+Hungarian Grand Prix,LEC,3,0,0,0,0
+Hungarian Grand Prix,NOR,1,0,0,0,0
+Hungarian Grand Prix,NOR,2,0,0,0,0
+Hungarian Grand Prix,OCO,1,0,0,0,0
+Hungarian Grand Prix,OCO,2,0,0,0,0
+Hungarian Grand Prix,PIA,1,0,0,0,0
+Hungarian Grand Prix,PIA,2,0,0,0,0
+Hungarian Grand Prix,PIA,3,0,0,0,0
+Hungarian Grand Prix,RUS,1,0,0,0,0
+Hungarian Grand Prix,RUS,2,0,0,0,0
+Hungarian Grand Prix,RUS,3,0,0,0,0
+Hungarian Grand Prix,SAI,1,0,0,0,0
+Hungarian Grand Prix,SAI,2,0,0,0,0
+Hungarian Grand Prix,SAI,3,0,0,0,0
+Hungarian Grand Prix,STR,1,0,0,0,0
+Hungarian Grand Prix,STR,2,0,0,0,0
+Hungarian Grand Prix,TSU,1,0,0,0,0
+Hungarian Grand Prix,TSU,2,0,0,0,0
+Hungarian Grand Prix,TSU,3,0,0,0,0
+Hungarian Grand Prix,VER,1,0,0,0,0
+Hungarian Grand Prix,VER,2,0,0,0,0
+Hungarian Grand Prix,VER,3,0,0,0,0
+Italian Grand Prix,ALB,1,1,0,0,0
+Italian Grand Prix,ALB,2,0,0,0,0
+Italian Grand Prix,ALO,1,0,0,0,0
+Italian Grand Prix,ALO,2,0,0,0,0
+Italian Grand Prix,ANT,1,0,0,0,0
+Italian Grand Prix,ANT,2,1,0,0,0
+Italian Grand Prix,BEA,1,0,0,0,0
+Italian Grand Prix,BEA,2,1,0,0,0
+Italian Grand Prix,BOR,1,0,0,0,0
+Italian Grand Prix,BOR,2,1,0,0,0
+Italian Grand Prix,COL,1,0,0,0,0
+Italian Grand Prix,COL,2,1,0,0,0
+Italian Grand Prix,GAS,1,1,0,0,0
+Italian Grand Prix,GAS,2,0,0,0,0
+Italian Grand Prix,HAD,1,0,0,0,0
+Italian Grand Prix,HAD,2,1,0,0,0
+Italian Grand Prix,HAM,1,0,0,0,0
+Italian Grand Prix,HAM,2,1,0,0,0
+Italian Grand Prix,LAW,1,0,0,0,0
+Italian Grand Prix,LAW,2,1,0,0,0
+Italian Grand Prix,LEC,1,0,0,0,0
+Italian Grand Prix,LEC,2,1,0,0,0
+Italian Grand Prix,NOR,1,1,0,0,0
+Italian Grand Prix,NOR,2,0,0,0,0
+Italian Grand Prix,OCO,1,1,0,0,0
+Italian Grand Prix,OCO,2,0,0,0,0
+Italian Grand Prix,PIA,1,1,0,0,0
+Italian Grand Prix,PIA,2,0,0,0,0
+Italian Grand Prix,RUS,1,0,0,0,0
+Italian Grand Prix,RUS,2,1,0,0,0
+Italian Grand Prix,SAI,1,0,0,0,0
+Italian Grand Prix,SAI,2,1,0,0,0
+Italian Grand Prix,STR,1,1,0,0,0
+Italian Grand Prix,STR,2,0,0,0,0
+Italian Grand Prix,TSU,1,0,0,0,0
+Italian Grand Prix,TSU,2,1,0,0,0
+Italian Grand Prix,VER,1,0,0,0,0
+Italian Grand Prix,VER,2,2,0,0,0
+Japanese Grand Prix,ALB,1,0,0,0,0
+Japanese Grand Prix,ALB,2,0,0,0,0
+Japanese Grand Prix,ALO,1,0,0,0,0
+Japanese Grand Prix,ALO,2,0,0,0,0
+Japanese Grand Prix,ANT,1,0,0,0,0
+Japanese Grand Prix,ANT,2,0,0,0,0
+Japanese Grand Prix,BEA,1,0,0,0,0
+Japanese Grand Prix,BEA,2,0,0,0,0
+Japanese Grand Prix,BOR,1,0,0,0,0
+Japanese Grand Prix,BOR,2,0,0,0,0
+Japanese Grand Prix,DOO,1,0,0,0,0
+Japanese Grand Prix,DOO,2,0,0,0,0
+Japanese Grand Prix,GAS,1,0,0,0,0
+Japanese Grand Prix,GAS,2,0,0,0,0
+Japanese Grand Prix,HAD,1,0,0,0,0
+Japanese Grand Prix,HAD,2,0,0,0,0
+Japanese Grand Prix,HAM,1,0,0,0,0
+Japanese Grand Prix,HAM,2,0,0,0,0
+Japanese Grand Prix,HUL,1,0,0,0,0
+Japanese Grand Prix,HUL,2,0,0,0,0
+Japanese Grand Prix,LAW,1,0,0,0,0
+Japanese Grand Prix,LAW,2,0,0,0,0
+Japanese Grand Prix,LEC,1,0,0,0,0
+Japanese Grand Prix,LEC,2,0,0,0,0
+Japanese Grand Prix,NOR,1,0,0,0,0
+Japanese Grand Prix,NOR,2,0,0,0,0
+Japanese Grand Prix,OCO,1,0,0,0,0
+Japanese Grand Prix,OCO,2,0,0,0,0
+Japanese Grand Prix,PIA,1,0,0,0,0
+Japanese Grand Prix,PIA,2,0,0,0,0
+Japanese Grand Prix,RUS,1,0,0,0,0
+Japanese Grand Prix,RUS,2,0,0,0,0
+Japanese Grand Prix,SAI,1,0,0,0,0
+Japanese Grand Prix,SAI,2,0,0,0,0
+Japanese Grand Prix,STR,1,0,0,0,0
+Japanese Grand Prix,STR,2,0,0,0,0
+Japanese Grand Prix,STR,3,0,0,0,0
+Japanese Grand Prix,TSU,1,0,0,0,0
+Japanese Grand Prix,TSU,2,0,0,0,0
+Japanese Grand Prix,VER,1,0,0,0,0
+Japanese Grand Prix,VER,2,0,0,0,0
+Las Vegas Grand Prix,ALB,1,2,0,2,0
+Las Vegas Grand Prix,ALB,2,0,0,0,0
+Las Vegas Grand Prix,ALB,3,0,0,0,0
+Las Vegas Grand Prix,ALB,4,0,0,0,0
+Las Vegas Grand Prix,ALO,1,2,0,4,0
+Las Vegas Grand Prix,ALO,2,0,0,0,0
+Las Vegas Grand Prix,ANT,1,2,0,1,0
+Las Vegas Grand Prix,ANT,2,0,0,3,0
+Las Vegas Grand Prix,BEA,1,2,0,4,0
+Las Vegas Grand Prix,BEA,2,0,0,0,0
+Las Vegas Grand Prix,BOR,1,1,0,0,0
+Las Vegas Grand Prix,COL,1,2,0,4,0
+Las Vegas Grand Prix,COL,2,0,0,0,0
+Las Vegas Grand Prix,GAS,1,2,0,1,0
+Las Vegas Grand Prix,GAS,2,0,0,2,0
+Las Vegas Grand Prix,HAD,1,2,0,4,0
+Las Vegas Grand Prix,HAD,2,0,0,0,0
+Las Vegas Grand Prix,HAM,1,2,0,4,0
+Las Vegas Grand Prix,HAM,2,0,0,0,0
+Las Vegas Grand Prix,HUL,1,2,0,4,0
+Las Vegas Grand Prix,HUL,2,0,0,0,0
+Las Vegas Grand Prix,LAW,1,2,0,1,0
+Las Vegas Grand Prix,LAW,2,0,0,2,0
+Las Vegas Grand Prix,LAW,3,0,0,0,0
+Las Vegas Grand Prix,LEC,1,2,0,4,0
+Las Vegas Grand Prix,LEC,2,0,0,0,0
+Las Vegas Grand Prix,NOR,1,2,0,4,0
+Las Vegas Grand Prix,NOR,2,0,0,0,0
+Las Vegas Grand Prix,OCO,1,2,0,5,0
+Las Vegas Grand Prix,OCO,2,0,0,0,0
+Las Vegas Grand Prix,PIA,1,2,0,4,0
+Las Vegas Grand Prix,PIA,2,0,0,0,0
+Las Vegas Grand Prix,RUS,1,2,0,4,0
+Las Vegas Grand Prix,RUS,2,0,0,0,0
+Las Vegas Grand Prix,SAI,1,2,0,4,0
+Las Vegas Grand Prix,SAI,2,0,0,0,0
+Las Vegas Grand Prix,TSU,1,1,0,0,0
+Las Vegas Grand Prix,TSU,2,1,0,4,0
+Las Vegas Grand Prix,TSU,3,0,0,0,0
+Las Vegas Grand Prix,VER,1,2,0,4,0
+Las Vegas Grand Prix,VER,2,0,0,0,0
+Mexico City Grand Prix,ALB,1,2,0,0,0
+Mexico City Grand Prix,ALB,2,1,0,2,0
+Mexico City Grand Prix,ALO,1,2,0,0,0
+Mexico City Grand Prix,ALO,2,0,0,0,0
+Mexico City Grand Prix,ANT,1,2,0,0,0
+Mexico City Grand Prix,ANT,2,0,0,0,0
+Mexico City Grand Prix,ANT,3,2,0,2,0
+Mexico City Grand Prix,BEA,1,2,0,0,0
+Mexico City Grand Prix,BEA,2,0,0,0,0
+Mexico City Grand Prix,BEA,3,2,0,2,0
+Mexico City Grand Prix,BOR,1,2,0,0,0
+Mexico City Grand Prix,BOR,2,1,0,2,0
+Mexico City Grand Prix,COL,1,2,0,0,0
+Mexico City Grand Prix,COL,2,2,0,2,0
+Mexico City Grand Prix,GAS,1,2,0,0,0
+Mexico City Grand Prix,GAS,2,2,0,2,0
+Mexico City Grand Prix,HAD,1,2,0,0,0
+Mexico City Grand Prix,HAD,2,1,0,2,0
+Mexico City Grand Prix,HAM,1,2,0,0,0
+Mexico City Grand Prix,HAM,2,0,0,0,0
+Mexico City Grand Prix,HAM,3,2,0,2,0
+Mexico City Grand Prix,HUL,1,2,0,0,0
+Mexico City Grand Prix,LAW,1,0,0,0,0
+Mexico City Grand Prix,LAW,2,2,0,0,0
+Mexico City Grand Prix,LEC,1,2,0,0,0
+Mexico City Grand Prix,LEC,2,2,0,2,0
+Mexico City Grand Prix,NOR,1,2,0,0,0
+Mexico City Grand Prix,NOR,2,1,0,2,0
+Mexico City Grand Prix,OCO,1,2,0,0,0
+Mexico City Grand Prix,OCO,2,1,0,2,0
+Mexico City Grand Prix,PIA,1,2,0,0,0
+Mexico City Grand Prix,PIA,2,0,0,0,0
+Mexico City Grand Prix,PIA,3,2,0,2,0
+Mexico City Grand Prix,RUS,1,2,0,0,0
+Mexico City Grand Prix,RUS,2,0,0,0,0
+Mexico City Grand Prix,RUS,3,2,0,2,0
+Mexico City Grand Prix,SAI,1,2,0,0,0
+Mexico City Grand Prix,SAI,2,0,0,0,0
+Mexico City Grand Prix,SAI,3,0,0,0,0
+Mexico City Grand Prix,SAI,4,0,0,0,0
+Mexico City Grand Prix,STR,1,2,0,0,0
+Mexico City Grand Prix,STR,2,0,0,0,0
+Mexico City Grand Prix,STR,3,1,0,2,0
+Mexico City Grand Prix,TSU,1,2,0,0,0
+Mexico City Grand Prix,TSU,2,1,0,2,0
+Mexico City Grand Prix,VER,1,2,0,0,0
+Mexico City Grand Prix,VER,2,2,0,2,0
+Miami Grand Prix,ALB,1,0,0,2,0
+Miami Grand Prix,ALB,2,0,0,1,0
+Miami Grand Prix,ALO,1,0,0,3,0
+Miami Grand Prix,ALO,2,0,0,1,0
+Miami Grand Prix,ANT,1,0,0,2,0
+Miami Grand Prix,ANT,2,0,0,1,0
+Miami Grand Prix,BEA,1,0,0,0,0
+Miami Grand Prix,BOR,1,2,0,2,0
+Miami Grand Prix,BOR,2,0,0,2,0
+Miami Grand Prix,GAS,1,0,0,3,0
+Miami Grand Prix,GAS,2,0,0,1,0
+Miami Grand Prix,HAD,1,2,0,2,0
+Miami Grand Prix,HAD,2,0,0,4,0
+Miami Grand Prix,HAM,1,0,0,2,0
+Miami Grand Prix,HAM,2,0,0,1,0
+Miami Grand Prix,HUL,1,0,0,4,0
+Miami Grand Prix,HUL,2,0,0,0,0
+Miami Grand Prix,LAW,1,0,0,2,0
+Miami Grand Prix,LAW,2,0,0,2,0
+Miami Grand Prix,LEC,1,0,0,2,0
+Miami Grand Prix,LEC,2,0,0,1,0
+Miami Grand Prix,NOR,1,0,0,2,0
+Miami Grand Prix,NOR,2,0,0,2,0
+Miami Grand Prix,OCO,1,2,0,2,0
+Miami Grand Prix,OCO,2,0,0,4,0
+Miami Grand Prix,PIA,1,0,0,2,0
+Miami Grand Prix,PIA,2,0,0,2,0
+Miami Grand Prix,RUS,1,0,0,2,0
+Miami Grand Prix,RUS,2,0,0,1,0
+Miami Grand Prix,SAI,1,0,0,2,0
+Miami Grand Prix,SAI,2,0,0,1,0
+Miami Grand Prix,STR,1,2,0,2,0
+Miami Grand Prix,STR,2,0,0,4,0
+Miami Grand Prix,TSU,1,0,0,3,0
+Miami Grand Prix,TSU,2,0,0,1,0
+Miami Grand Prix,VER,1,0,0,3,0
+Miami Grand Prix,VER,2,0,0,1,0
+Monaco Grand Prix,ALB,1,5,0,3,0
+Monaco Grand Prix,ALB,2,1,0,0,0
+Monaco Grand Prix,ALB,3,0,0,0,0
+Monaco Grand Prix,ALO,1,5,0,3,0
+Monaco Grand Prix,ALO,2,0,0,0,0
+Monaco Grand Prix,ANT,1,6,0,4,0
+Monaco Grand Prix,ANT,2,0,0,0,0
+Monaco Grand Prix,ANT,3,0,0,0,0
+Monaco Grand Prix,BEA,2,4,0,3,0
+Monaco Grand Prix,BEA,3,1,0,0,0
+Monaco Grand Prix,BOR,2,4,0,3,0
+Monaco Grand Prix,BOR,3,0,0,0,0
+Monaco Grand Prix,BOR,4,1,0,0,0
+Monaco Grand Prix,COL,1,5,0,4,0
+Monaco Grand Prix,COL,2,0,0,0,0
+Monaco Grand Prix,COL,3,1,0,0,0
+Monaco Grand Prix,GAS,1,1,0,1,0
+Monaco Grand Prix,GAS,2,0,0,3,0
+Monaco Grand Prix,HAD,1,5,0,3,0
+Monaco Grand Prix,HAD,2,0,0,0,0
+Monaco Grand Prix,HAD,3,1,0,0,0
+Monaco Grand Prix,HAM,1,5,0,3,0
+Monaco Grand Prix,HAM,2,1,0,0,0
+Monaco Grand Prix,HAM,3,0,0,0,0
+Monaco Grand Prix,HUL,1,5,0,3,0
+Monaco Grand Prix,HUL,2,1,0,0,0
+Monaco Grand Prix,HUL,3,0,0,0,0
+Monaco Grand Prix,LAW,1,5,0,3,0
+Monaco Grand Prix,LAW,2,1,0,0,0
+Monaco Grand Prix,LAW,3,0,0,0,0
+Monaco Grand Prix,LEC,1,5,0,3,0
+Monaco Grand Prix,LEC,2,1,0,0,0
+Monaco Grand Prix,LEC,3,0,0,0,0
+Monaco Grand Prix,NOR,1,5,0,3,0
+Monaco Grand Prix,NOR,2,1,0,0,0
+Monaco Grand Prix,NOR,3,0,0,0,0
+Monaco Grand Prix,OCO,1,5,0,3,0
+Monaco Grand Prix,OCO,2,0,0,0,0
+Monaco Grand Prix,OCO,3,1,0,0,0
+Monaco Grand Prix,PIA,1,5,0,3,0
+Monaco Grand Prix,PIA,2,1,0,0,0
+Monaco Grand Prix,PIA,3,0,0,0,0
+Monaco Grand Prix,RUS,1,6,0,4,0
+Monaco Grand Prix,RUS,2,0,0,0,0
+Monaco Grand Prix,RUS,3,0,0,0,0
+Monaco Grand Prix,SAI,1,6,0,3,0
+Monaco Grand Prix,SAI,2,0,0,0,0
+Monaco Grand Prix,SAI,3,0,0,0,0
+Monaco Grand Prix,STR,1,5,0,4,0
+Monaco Grand Prix,STR,2,1,0,0,0
+Monaco Grand Prix,STR,3,0,0,0,0
+Monaco Grand Prix,TSU,1,1,0,1,0
+Monaco Grand Prix,TSU,2,5,0,3,0
+Monaco Grand Prix,TSU,3,0,0,0,0
+Monaco Grand Prix,VER,1,5,0,3,0
+Monaco Grand Prix,VER,2,1,0,0,0
+Monaco Grand Prix,VER,3,0,0,0,0
+Qatar Grand Prix,ALB,1,1,1,0,0
+Qatar Grand Prix,ALB,2,0,2,0,0
+Qatar Grand Prix,ALB,3,0,0,0,0
+Qatar Grand Prix,ALO,1,1,1,0,0
+Qatar Grand Prix,ALO,2,0,1,0,0
+Qatar Grand Prix,ALO,3,0,0,0,0
+Qatar Grand Prix,ANT,1,1,1,0,0
+Qatar Grand Prix,ANT,2,0,0,0,0
+Qatar Grand Prix,ANT,3,0,0,0,0
+Qatar Grand Prix,BEA,1,1,1,0,0
+Qatar Grand Prix,BEA,2,0,2,0,0
+Qatar Grand Prix,BEA,3,0,0,0,0
+Qatar Grand Prix,BEA,4,0,0,0,0
+Qatar Grand Prix,BOR,1,1,1,0,0
+Qatar Grand Prix,BOR,2,0,2,0,0
+Qatar Grand Prix,BOR,3,0,0,0,0
+Qatar Grand Prix,COL,1,1,1,0,0
+Qatar Grand Prix,COL,2,0,2,0,0
+Qatar Grand Prix,COL,3,0,0,0,0
+Qatar Grand Prix,GAS,1,0,0,0,0
+Qatar Grand Prix,GAS,2,0,3,0,0
+Qatar Grand Prix,GAS,3,0,0,0,0
+Qatar Grand Prix,HAD,1,1,1,0,0
+Qatar Grand Prix,HAD,2,0,2,0,0
+Qatar Grand Prix,HAD,3,0,0,0,0
+Qatar Grand Prix,HAM,1,1,1,0,0
+Qatar Grand Prix,HAM,2,0,2,0,0
+Qatar Grand Prix,HAM,3,0,0,0,0
+Qatar Grand Prix,HUL,1,0,0,0,0
+Qatar Grand Prix,LAW,1,1,1,0,0
+Qatar Grand Prix,LAW,2,0,2,0,0
+Qatar Grand Prix,LAW,3,0,0,0,0
+Qatar Grand Prix,LEC,1,1,1,0,0
+Qatar Grand Prix,LEC,2,0,2,0,0
+Qatar Grand Prix,LEC,3,0,0,0,0
+Qatar Grand Prix,NOR,1,1,1,0,0
+Qatar Grand Prix,NOR,2,0,0,0,0
+Qatar Grand Prix,NOR,3,0,0,0,0
+Qatar Grand Prix,OCO,1,1,2,0,0
+Qatar Grand Prix,OCO,3,0,1,0,0
+Qatar Grand Prix,OCO,4,0,0,0,0
+Qatar Grand Prix,PIA,1,1,1,0,0
+Qatar Grand Prix,PIA,2,0,0,0,0
+Qatar Grand Prix,PIA,3,0,0,0,0
+Qatar Grand Prix,RUS,1,1,1,0,0
+Qatar Grand Prix,RUS,2,0,1,0,0
+Qatar Grand Prix,RUS,3,0,0,0,0
+Qatar Grand Prix,SAI,1,1,1,0,0
+Qatar Grand Prix,SAI,2,0,0,0,0
+Qatar Grand Prix,SAI,3,0,0,0,0
+Qatar Grand Prix,STR,1,1,1,0,0
+Qatar Grand Prix,STR,2,0,2,0,0
+Qatar Grand Prix,STR,3,0,0,0,0
+Qatar Grand Prix,STR,4,0,0,0,0
+Qatar Grand Prix,TSU,1,1,1,0,0
+Qatar Grand Prix,TSU,2,0,2,0,0
+Qatar Grand Prix,TSU,3,0,0,0,0
+Qatar Grand Prix,VER,1,1,1,0,0
+Qatar Grand Prix,VER,2,0,0,0,0
+Qatar Grand Prix,VER,3,0,0,0,0
+Saudi Arabian Grand Prix,ALB,1,1,1,0,0
+Saudi Arabian Grand Prix,ALB,2,0,0,0,0
+Saudi Arabian Grand Prix,ALO,1,1,1,0,0
+Saudi Arabian Grand Prix,ALO,2,0,0,0,0
+Saudi Arabian Grand Prix,ANT,1,1,1,0,0
+Saudi Arabian Grand Prix,ANT,2,0,0,0,0
+Saudi Arabian Grand Prix,BEA,1,0,0,0,0
+Saudi Arabian Grand Prix,BEA,2,0,0,0,0
+Saudi Arabian Grand Prix,BOR,2,0,0,0,0
+Saudi Arabian Grand Prix,DOO,2,0,0,0,0
+Saudi Arabian Grand Prix,DOO,3,0,0,0,0
+Saudi Arabian Grand Prix,HAD,1,0,0,0,0
+Saudi Arabian Grand Prix,HAD,2,0,0,0,0
+Saudi Arabian Grand Prix,HAM,1,1,1,0,0
+Saudi Arabian Grand Prix,HAM,2,0,0,0,0
+Saudi Arabian Grand Prix,HUL,1,0,0,0,0
+Saudi Arabian Grand Prix,HUL,2,0,0,0,0
+Saudi Arabian Grand Prix,LAW,1,0,0,0,0
+Saudi Arabian Grand Prix,LAW,2,0,0,0,0
+Saudi Arabian Grand Prix,LEC,1,1,1,0,0
+Saudi Arabian Grand Prix,LEC,2,0,0,0,0
+Saudi Arabian Grand Prix,NOR,1,1,1,0,0
+Saudi Arabian Grand Prix,NOR,2,0,0,0,0
+Saudi Arabian Grand Prix,OCO,2,0,0,0,0
+Saudi Arabian Grand Prix,PIA,1,1,1,0,0
+Saudi Arabian Grand Prix,PIA,2,0,0,0,0
+Saudi Arabian Grand Prix,RUS,1,1,1,0,0
+Saudi Arabian Grand Prix,RUS,2,0,0,0,0
+Saudi Arabian Grand Prix,SAI,1,1,1,0,0
+Saudi Arabian Grand Prix,SAI,2,0,0,0,0
+Saudi Arabian Grand Prix,STR,1,0,0,0,0
+Saudi Arabian Grand Prix,STR,2,0,0,0,0
+Saudi Arabian Grand Prix,VER,1,1,1,0,0
+Saudi Arabian Grand Prix,VER,2,0,0,0,0
+Singapore Grand Prix,ALB,1,1,0,0,0
+Singapore Grand Prix,ALB,2,1,0,0,0
+Singapore Grand Prix,ALO,1,1,0,0,0
+Singapore Grand Prix,ALO,2,1,0,0,0
+Singapore Grand Prix,ANT,1,1,0,0,0
+Singapore Grand Prix,ANT,2,1,0,0,0
+Singapore Grand Prix,BEA,1,1,0,0,0
+Singapore Grand Prix,BEA,2,1,0,0,0
+Singapore Grand Prix,BOR,1,1,0,0,0
+Singapore Grand Prix,BOR,2,1,0,0,0
+Singapore Grand Prix,COL,1,1,0,0,0
+Singapore Grand Prix,COL,2,1,0,0,0
+Singapore Grand Prix,GAS,1,1,0,0,0
+Singapore Grand Prix,GAS,2,1,0,0,0
+Singapore Grand Prix,GAS,3,0,0,0,0
+Singapore Grand Prix,HAD,1,1,0,0,0
+Singapore Grand Prix,HAD,2,1,0,0,0
+Singapore Grand Prix,HAM,1,1,0,0,0
+Singapore Grand Prix,HAM,2,1,0,0,0
+Singapore Grand Prix,HAM,3,0,0,0,0
+Singapore Grand Prix,HUL,1,1,0,0,0
+Singapore Grand Prix,HUL,2,1,0,0,0
+Singapore Grand Prix,HUL,3,0,0,0,0
+Singapore Grand Prix,LAW,1,2,0,0,0
+Singapore Grand Prix,LAW,2,0,0,0,0
+Singapore Grand Prix,LEC,1,1,0,0,0
+Singapore Grand Prix,LEC,2,1,0,0,0
+Singapore Grand Prix,NOR,1,1,0,0,0
+Singapore Grand Prix,NOR,2,1,0,0,0
+Singapore Grand Prix,OCO,1,1,0,0,0
+Singapore Grand Prix,OCO,2,1,0,0,0
+Singapore Grand Prix,PIA,1,1,0,0,0
+Singapore Grand Prix,PIA,2,1,0,0,0
+Singapore Grand Prix,RUS,1,1,0,0,0
+Singapore Grand Prix,RUS,2,1,0,0,0
+Singapore Grand Prix,SAI,1,2,0,0,0
+Singapore Grand Prix,SAI,2,0,0,0,0
+Singapore Grand Prix,STR,1,1,0,0,0
+Singapore Grand Prix,STR,2,1,0,0,0
+Singapore Grand Prix,TSU,1,1,0,0,0
+Singapore Grand Prix,TSU,2,1,0,0,0
+Singapore Grand Prix,VER,1,1,0,0,0
+Singapore Grand Prix,VER,2,1,0,0,0
+Spanish Grand Prix,ALB,1,0,0,0,0
+Spanish Grand Prix,ALB,2,0,0,0,0
+Spanish Grand Prix,ALB,3,0,0,0,0
+Spanish Grand Prix,ALO,1,0,0,0,0
+Spanish Grand Prix,ALO,2,0,0,0,0
+Spanish Grand Prix,ALO,3,1,1,0,0
+Spanish Grand Prix,ALO,4,0,5,0,0
+Spanish Grand Prix,ANT,1,0,0,0,0
+Spanish Grand Prix,ANT,2,0,0,0,0
+Spanish Grand Prix,ANT,3,0,0,0,0
+Spanish Grand Prix,BEA,1,0,0,0,0
+Spanish Grand Prix,BEA,2,0,0,0,0
+Spanish Grand Prix,BEA,3,1,1,0,0
+Spanish Grand Prix,BEA,4,0,6,0,0
+Spanish Grand Prix,BOR,1,0,0,0,0
+Spanish Grand Prix,BOR,2,0,0,0,0
+Spanish Grand Prix,BOR,3,1,7,0,0
+Spanish Grand Prix,COL,1,0,0,0,0
+Spanish Grand Prix,COL,2,0,0,0,0
+Spanish Grand Prix,COL,3,2,1,0,0
+Spanish Grand Prix,COL,4,0,6,0,0
+Spanish Grand Prix,GAS,1,0,0,0,0
+Spanish Grand Prix,GAS,2,0,0,0,0
+Spanish Grand Prix,GAS,3,1,2,0,0
+Spanish Grand Prix,GAS,4,0,5,0,0
+Spanish Grand Prix,HAD,1,0,0,0,0
+Spanish Grand Prix,HAD,2,0,0,0,0
+Spanish Grand Prix,HAD,3,1,2,0,0
+Spanish Grand Prix,HAD,4,0,5,0,0
+Spanish Grand Prix,HAM,1,0,0,0,0
+Spanish Grand Prix,HAM,2,0,0,0,0
+Spanish Grand Prix,HAM,3,1,1,0,0
+Spanish Grand Prix,HAM,4,0,5,0,0
+Spanish Grand Prix,HUL,1,0,0,0,0
+Spanish Grand Prix,HUL,2,0,0,0,0
+Spanish Grand Prix,HUL,3,1,3,0,0
+Spanish Grand Prix,HUL,4,0,4,0,0
+Spanish Grand Prix,LAW,1,0,0,0,0
+Spanish Grand Prix,LAW,2,0,0,0,0
+Spanish Grand Prix,LAW,3,1,7,0,0
+Spanish Grand Prix,LEC,1,0,0,0,0
+Spanish Grand Prix,LEC,2,0,0,0,0
+Spanish Grand Prix,LEC,3,1,1,0,0
+Spanish Grand Prix,LEC,4,0,5,0,0
+Spanish Grand Prix,NOR,1,0,0,0,0
+Spanish Grand Prix,NOR,2,0,0,0,0
+Spanish Grand Prix,NOR,3,1,1,0,0
+Spanish Grand Prix,NOR,4,0,4,0,0
+Spanish Grand Prix,OCO,1,0,0,0,0
+Spanish Grand Prix,OCO,2,0,0,0,0
+Spanish Grand Prix,OCO,3,1,7,0,0
+Spanish Grand Prix,PIA,1,0,0,0,0
+Spanish Grand Prix,PIA,2,0,0,0,0
+Spanish Grand Prix,PIA,3,1,1,0,0
+Spanish Grand Prix,PIA,4,0,4,0,0
+Spanish Grand Prix,RUS,1,0,0,0,0
+Spanish Grand Prix,RUS,2,0,0,0,0
+Spanish Grand Prix,RUS,3,1,1,0,0
+Spanish Grand Prix,RUS,4,0,5,0,0
+Spanish Grand Prix,SAI,1,0,0,0,0
+Spanish Grand Prix,SAI,2,0,0,0,0
+Spanish Grand Prix,SAI,3,1,2,0,0
+Spanish Grand Prix,SAI,4,0,5,0,0
+Spanish Grand Prix,TSU,1,0,0,0,0
+Spanish Grand Prix,TSU,2,0,0,0,0
+Spanish Grand Prix,TSU,3,0,0,0,0
+Spanish Grand Prix,TSU,4,1,1,0,0
+Spanish Grand Prix,TSU,5,0,6,0,0
+Spanish Grand Prix,VER,1,0,0,0,0
+Spanish Grand Prix,VER,2,0,0,0,0
+Spanish Grand Prix,VER,3,0,0,0,0
+Spanish Grand Prix,VER,4,1,1,0,0
+Spanish Grand Prix,VER,5,0,4,0,0
+São Paulo Grand Prix,ALB,1,4,4,2,0
+São Paulo Grand Prix,ALB,2,0,0,0,0
+São Paulo Grand Prix,ALB,3,0,0,0,0
+São Paulo Grand Prix,ALO,1,4,4,2,0
+São Paulo Grand Prix,ALO,2,0,0,0,0
+São Paulo Grand Prix,ALO,3,0,0,0,0
+São Paulo Grand Prix,ANT,1,4,4,2,0
+São Paulo Grand Prix,ANT,2,0,0,0,0
+São Paulo Grand Prix,ANT,3,0,0,0,0
+São Paulo Grand Prix,BEA,1,4,4,2,0
+São Paulo Grand Prix,BEA,2,0,0,0,0
+São Paulo Grand Prix,BEA,3,0,0,0,0
+São Paulo Grand Prix,COL,1,4,4,2,0
+São Paulo Grand Prix,COL,2,0,0,0,0
+São Paulo Grand Prix,COL,3,0,0,0,0
+São Paulo Grand Prix,GAS,1,4,4,2,0
+São Paulo Grand Prix,GAS,2,0,0,0,0
+São Paulo Grand Prix,GAS,3,0,0,0,0
+São Paulo Grand Prix,HAD,1,4,4,2,0
+São Paulo Grand Prix,HAD,2,0,0,0,0
+São Paulo Grand Prix,HAD,3,0,0,0,0
+São Paulo Grand Prix,HAM,1,2,1,0,0
+São Paulo Grand Prix,HAM,2,2,3,2,0
+São Paulo Grand Prix,HAM,3,0,0,0,0
+São Paulo Grand Prix,HAM,4,0,0,0,0
+São Paulo Grand Prix,HUL,1,4,4,2,0
+São Paulo Grand Prix,HUL,2,0,0,0,0
+São Paulo Grand Prix,LAW,1,4,4,2,0
+São Paulo Grand Prix,LAW,2,0,0,0,0
+São Paulo Grand Prix,LEC,1,2,4,0,0
+São Paulo Grand Prix,NOR,1,4,4,2,0
+São Paulo Grand Prix,NOR,2,0,0,0,0
+São Paulo Grand Prix,NOR,3,0,0,0,0
+São Paulo Grand Prix,OCO,1,4,4,2,0
+São Paulo Grand Prix,OCO,2,0,0,0,0
+São Paulo Grand Prix,OCO,3,0,0,0,0
+São Paulo Grand Prix,PIA,1,4,4,2,0
+São Paulo Grand Prix,PIA,2,0,0,0,0
+São Paulo Grand Prix,PIA,3,0,0,0,0
+São Paulo Grand Prix,RUS,1,4,4,2,0
+São Paulo Grand Prix,RUS,2,0,0,0,0
+São Paulo Grand Prix,RUS,3,0,0,0,0
+São Paulo Grand Prix,SAI,1,4,4,2,0
+São Paulo Grand Prix,SAI,2,0,0,0,0
+São Paulo Grand Prix,SAI,3,0,0,0,0
+São Paulo Grand Prix,STR,1,3,4,3,0
+São Paulo Grand Prix,STR,2,0,0,0,0
+São Paulo Grand Prix,STR,3,0,0,0,0
+São Paulo Grand Prix,TSU,1,2,1,0,0
+São Paulo Grand Prix,TSU,2,2,3,2,0
+São Paulo Grand Prix,TSU,3,0,0,0,0
+São Paulo Grand Prix,TSU,4,0,0,0,0
+São Paulo Grand Prix,VER,1,4,4,1,0
+São Paulo Grand Prix,VER,2,0,0,1,0
+São Paulo Grand Prix,VER,3,0,0,0,0
+São Paulo Grand Prix,VER,4,0,0,0,0
+United States Grand Prix,ALB,1,3,0,1,0
+United States Grand Prix,ALB,2,1,0,0,0
+United States Grand Prix,ALB,3,0,0,0,0
+United States Grand Prix,ALO,1,3,0,2,0
+United States Grand Prix,ALO,2,1,0,0,0
+United States Grand Prix,ANT,1,3,0,2,0
+United States Grand Prix,ANT,2,1,0,0,0
+United States Grand Prix,BEA,1,3,0,2,0
+United States Grand Prix,BEA,2,1,0,0,0
+United States Grand Prix,BOR,1,3,0,2,0
+United States Grand Prix,BOR,2,1,0,0,0
+United States Grand Prix,BOR,3,0,0,0,0
+United States Grand Prix,COL,1,3,0,2,0
+United States Grand Prix,COL,2,1,0,0,0
+United States Grand Prix,GAS,1,3,0,2,0
+United States Grand Prix,GAS,2,1,0,0,0
+United States Grand Prix,HAD,1,3,0,2,0
+United States Grand Prix,HAD,2,1,0,0,0
+United States Grand Prix,HAM,1,3,0,3,0
+United States Grand Prix,HAM,2,2,0,0,0
+United States Grand Prix,HUL,1,3,0,2,0
+United States Grand Prix,HUL,2,1,0,0,0
+United States Grand Prix,LAW,1,3,0,2,0
+United States Grand Prix,LAW,2,1,0,0,0
+United States Grand Prix,LEC,1,3,0,3,0
+United States Grand Prix,LEC,2,1,0,0,0
+United States Grand Prix,NOR,1,3,0,3,0
+United States Grand Prix,NOR,2,1,0,0,0
+United States Grand Prix,OCO,1,3,0,2,0
+United States Grand Prix,OCO,2,1,0,0,0
+United States Grand Prix,PIA,1,3,0,3,0
+United States Grand Prix,PIA,2,1,0,0,0
+United States Grand Prix,RUS,1,3,0,2,0
+United States Grand Prix,RUS,2,1,0,0,0
+United States Grand Prix,SAI,1,1,0,0,0
+United States Grand Prix,STR,1,3,0,2,0
+United States Grand Prix,STR,2,1,0,0,0
+United States Grand Prix,TSU,1,3,0,2,0
+United States Grand Prix,TSU,2,1,0,0,0
+United States Grand Prix,VER,1,3,0,2,0
+United States Grand Prix,VER,2,1,0,0,0
