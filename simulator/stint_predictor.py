@@ -1,6 +1,7 @@
 import joblib
 import pandas as pd
 import sys
+import numpy as np
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -9,7 +10,7 @@ class StintPredictor:
 
     def __init__(
         self,
-        model_path="C:/Users/VANSH/Formula1/models/xgb_stint_model.pkl"
+        model_path="C:/Users/VANSH/Formula1/models/xgb_stint_model_3seasons.pkl"
     ):
 
         self.model = joblib.load(
@@ -56,11 +57,11 @@ class StintPredictor:
             }
         )
 
-        prediction = self.model.predict(
-            features
-        )[0]
+        prediction = float(self.model.predict(features)[0])
 
-        return round(
-            float(prediction),
-            1
-        )
+        if not np.isfinite(prediction):
+            raise ValueError(
+                f"Model returned an invalid stint-length prediction: {prediction}"
+    )
+
+        return round(max(1.0, prediction), 1)
