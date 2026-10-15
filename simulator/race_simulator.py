@@ -1,165 +1,122 @@
-import sys
-import os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-from simulator.stint_predictor import (
-    StintPredictor
-)
+from simulator.stint_predictor import StintPredictor
 
 
 class RaceSimulator:
+    """Deterministic race-distance simulator for V1."""
 
-    def __init__(self):
+    REQUIRED_CONTEXT_KEYS = (
+        "gp_name",
+        "air_temp",
+        "track_temp",
+        "season",
+        "circuit_type",
+        "track_length",
+        "track_abrasiveness",
+        "average_corner_speed",
+        "race_laps",
+    )
 
+    ALLOWED_COMPOUNDS = {"SOFT", "MEDIUM", "HARD"}
+
+    def __init__(self, model_path=None):
         self.predictor = (
-            StintPredictor()
+            StintPredictor(model_path=model_path)
+            if model_path
+            else StintPredictor()
         )
 
-    def simulate_strategy(
-        self,
-        strategy,
-        race_context
-    ):
+    def simulate_strategy(self, strategy, race_context):
+        """Predict every stint and separately allocate the race-distance budget."""
+        if not strategy:
+            raise ValueError("Strategy cannot be empty.")
 
-        completed_laps = 0
-
-        predicted_stints = []
-
-        race_progresses = []
-
-        race_laps = (
-            race_context["race_laps"]
-        )
-
-        # Predict all stints except the final one
-        for compound in strategy[:-1]:
-
-            race_progress = (
-                completed_laps /
-                race_laps
+        strategy = [str(compound).upper() for compound in strategy]
+        invalid = [c for c in strategy if c not in self.ALLOWED_COMPOUNDS]
+        if invalid:
+            raise ValueError(
+                f"Unsupported compound(s): {invalid}. "
+                "V1 supports SOFT, MEDIUM, and HARD."
             )
 
-            race_progresses.append(
-                round(
-                    race_progress,
-                    3
-                )
-            )
+        missing = [key for key in self.REQUIRED_CONTEXT_KEYS if key not in race_context]
+        if missing:
+            raise KeyError(f"race_context is missing required keys: {missing}")
 
-            stint_length = (
-                self.predictor
-                .predict_stint_length(
-                    compound=compound,
-                    GP=race_context[
-                        "gp_name"
-                    ],
-                    air_temp=race_context[
-                        "air_temp"
-                    ],
-                    track_temp=race_context[
-                        "track_temp"
-                    ],
-                    season=race_context[
-                        "season"
-                    ],
-                    race_progress=race_progress,
-                    circuit_type=race_context[
-                        "circuit_type"
-                    ],
-                    track_length=race_context[
-                        "track_length"
-                    ],
-                    track_abrasiveness=race_context[
-                        "track_abrasiveness"
-                    ],
-                    average_corner_speed=race_context[
-                        "average_corner_speed"
-                    ]
-                )
-            )
-            stint_length = round(
-                stint_length
-            )
+        raw_race_laps = race_context["race_laps"]
+        if isinstance(raw_race_laps, bool) or int(raw_race_laps) != raw_race_laps:
+            raise ValueError("race_laps must be a whole number.")
+        race_laps = int(raw_race_laps)
+        if race_laps < len(strategy):
+            raise ValueError("Race distance must provide at least one lap per stint.")
 
-            predicted_stints.append(
-                
-                    stint_length
-            )
-                 
+        stints = []
+        laps_allocated = 0
+        n_stints = len(strategy)
 
-            completed_laps += (
-                    stint_length
-                )
+        for index, compound in enumerate(strategy):
+            stint_number = index + 1
+            remaining_laps = race_laps - laps_allocated
+            is_final = index == n_stints - 1
+            race_progress = laps_allocated / race_laps
 
-        # Final stint absorbs the remaining laps
-        final_compound = (
-            strategy[-1]
-        )
+            # Always preserve the model's prediction, including for the final stint.
+            predicted = float(self.predictor.predict_stint_length(
+                GP=race_context["gp_name"],
+                compound=compound,
+                air_temp=race_context["air_temp"],
+                track_temp=race_context["track_temp"],
+                season=race_context["season"],
+                race_progress=race_progress,
+                circuit_type=race_context["circuit_type"],
+                track_length=race_context["track_length"],
+                track_abrasiveness=race_context["track_abrasiveness"],
+                average_corner_speed=race_context["average_corner_speed"],
+                fresh_tyre=1,
+                yellow_laps=race_context.get("yellow_laps", 0),
+                sc_laps=race_context.get("sc_laps", 0),
+                vsc_laps=race_context.get("vsc_laps", 0),
+                redflag_laps=race_context.get("redflag_laps", 0),
+            ))
 
-        race_progress = (
-            completed_laps /
-            race_laps
-        )
+            if is_final:
+                # Allocation closes the race-distance budget; prediction stays separate.
+                required_laps = remaining_laps
+            else:
+                # Retain the existing V1 five-lap minimum and reserve at least
+                # one lap for every stint that follows.
+                predicted_laps = max(5, int(round(predicted)))
+                later_stints = n_stints - stint_number
+                max_allocation = remaining_laps - later_stints
+                required_laps = min(predicted_laps, max_allocation)
 
-        race_progresses.append(
-            round(
-                race_progress,
-                3
-            )
-        )
+            required_laps = int(required_laps)
+            laps_allocated += required_laps
 
-        final_stint = round(
-            race_laps -
-            completed_laps,
-            1
-        )
+            stints.append({
+                "stint_number": stint_number,
+                "compound": compound,
+                "race_progress": round(race_progress, 3),
+                "predicted_stint_length": round(predicted, 1),
+                "required_stint_length": required_laps,
+                "prediction_gap": round(required_laps - predicted, 1),
+                "is_final_stint": is_final,
+            })
 
-        predicted_stints.append(
-            final_stint
-        )
-
-        total_laps = round(
-            sum(
-                predicted_stints
-            ),
-            1
-        )
-
-        coverage_margin = round(
-            total_laps - race_laps,
-            1
-        )
+        total_allocated = sum(s["required_stint_length"] for s in stints)
+        budget_valid = total_allocated == race_laps
 
         return {
-
-            "strategy":
-                strategy,
-
-            "race_progresses":
-                race_progresses,
-
-            "predicted_stints":
-                predicted_stints,
-
-            "total_laps":
-                total_laps,
-
-            "race_laps":
-                race_laps,
-
-            "coverage_margin":
-                coverage_margin,
-
-            "pit_stops":
-                len(strategy) - 1,
-
-            "valid":
-                total_laps >= race_laps,
-
-            "final_compound":
-                final_compound,
-
-            "circuit_type":
-                race_context["circuit_type"]
-
+            "gp_name": race_context["gp_name"],
+            "strategy": strategy,
+            "strategy_label": " -> ".join(strategy),
+            "stints": stints,
+            "predicted_stints": [s["predicted_stint_length"] for s in stints],
+            "required_stints": [s["required_stint_length"] for s in stints],
+            "race_laps": race_laps,
+            "total_allocated_laps": total_allocated,
+            "coverage_margin": total_allocated - race_laps,
+            "pit_stops": len(strategy) - 1,
+            "budget_valid": budget_valid,
+            "final_compound": strategy[-1],
+            "circuit_type": race_context["circuit_type"],
         }
