@@ -1,25 +1,25 @@
-GP,CircuitType,TrackLength,TrackAbrasiveness,AverageCornerSpeed
-Bahrain Grand Prix,Permanent,5.412,VeryHigh,97.6
-Saudi Arabian Grand Prix,Street,6.174,Low,142.6
-Australian Grand Prix,SemiPermanent,5.278,Medium,132.7
-Azerbaijan Grand Prix,Street,6.003,Low,99.7
-Miami Grand Prix,SemiPermanent,5.412,Medium,93.5
-Monaco Grand Prix,Street,3.337,VeryLow,71.4
-Spanish Grand Prix,Permanent,4.657,High,137.8
-Canadian Grand Prix,SemiPermanent,4.361,Medium,96.7
-Austrian Grand Prix,Permanent,4.326,Medium,116.5
-British Grand Prix,Permanent,5.891,VeryHigh,120.3
-Hungarian Grand Prix,Permanent,4.381,Medium,120
-Belgian Grand Prix,Permanent,7.004,Medium,96.8
-Dutch Grand Prix,Permanent,4.259,VeryHigh,120.1
-Italian Grand Prix,Permanent,5.793,Medium,130.5
-Singapore Grand Prix,Street,4.94,Low,97.1
-Japanese Grand Prix,Permanent,5.807,High,119.9
-Qatar Grand Prix,Permanent,5.419,High,147.9
-United States Grand Prix,Permanent,5.513,High,97.5
-Mexico City Grand Prix,Permanent,4.304,Low,87.6
-São Paulo Grand Prix,Permanent,4.309,High,87.2
-Las Vegas Grand Prix,Street,6.201,VeryLow,105.9
-Abu Dhabi Grand Prix,Permanent,5.513,Low,114.1
-Emilia Romagna Grand Prix,Permanent,4.909,Medium,117.9
-Chinese Grand Prix,Permanent,5.451,Medium,103.3
+GP,CircuitType,TrackLength,TrackAbrasiveness,AverageCornerSpeed,PitLaneSpeedLimit,EstimatedPitLossSeconds
+Bahrain Grand Prix,Permanent,5.412,VeryHigh,97.6,80,22.98
+Saudi Arabian Grand Prix,Street,6.174,Low,142.6,80,19.2
+Australian Grand Prix,SemiPermanent,5.278,Medium,132.7,80,19.3
+Azerbaijan Grand Prix,Street,6.003,Low,99.7,80,19.27
+Miami Grand Prix,SemiPermanent,5.412,Medium,93.5,80,18.76
+Monaco Grand Prix,Street,3.337,VeryLow,71.4,60,19.92
+Spanish Grand Prix,Permanent,4.657,High,137.8,80,22.44
+Canadian Grand Prix,SemiPermanent,4.361,Medium,96.7,80,18.4
+Austrian Grand Prix,Permanent,4.326,Medium,116.5,80,20
+British Grand Prix,Permanent,5.891,High,120.3,80,22.9
+Hungarian Grand Prix,Permanent,4.381,Medium,120,80,20.9
+Belgian Grand Prix,Permanent,7.004,Medium,96.8,80,21.2
+Dutch Grand Prix,Permanent,4.259,High,120.1,80,19.1
+Italian Grand Prix,Permanent,5.793,Low,130.5,80,24.5
+Singapore Grand Prix,Street,4.94,Low,97.1,80,22
+Japanese Grand Prix,Permanent,5.807,High,119.9,80,22.4
+Qatar Grand Prix,Permanent,5.419,High,147.9,80,24.8
+United States Grand Prix,Permanent,5.513,High,97.5,80,19.8
+Mexico City Grand Prix,Permanent,4.304,Low,87.6,80,21.9
+São Paulo Grand Prix,Permanent,4.309,High,87.2,80,18.5
+Las Vegas Grand Prix,Street,6.201,VeryLow,105.9,80,20.8
+Abu Dhabi Grand Prix,Permanent,5.513,Low,114.1,80,21.6
+Emilia Romagna Grand Prix,Permanent,4.909,Medium,117.9,80,23.1
+Chinese Grand Prix,Permanent,5.451,Medium,103.3,80,22.5
