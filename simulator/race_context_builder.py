@@ -1,5 +1,8 @@
 """Forecast-mode Race Context Builder for the F1 tyre-strategy project.
 
+Install at:
+C:/Users/VANSH/Formula1/simulator/race_context_builder.py
+
 Dependencies: pandas, requests
 Reads RACE_LAPS from src.config/config, circuit_metadata.csv, and the corrected
 2023-2025 master stint datasets. Open-Meteo provides forecast air temperature;
@@ -286,6 +289,8 @@ class RaceContextBuilder:
             "track_length": float(row["TrackLength"]),
             "track_abrasiveness": row["TrackAbrasiveness"],
             "average_corner_speed": float(row["AverageCornerSpeed"]),
+            "pit_lane_speed_limit": float(row["PitLaneSpeedLimit"]),
+            "estimated_pit_loss_seconds": float(row["EstimatedPitLossSeconds"]),
         }
         if any(pd.isna(value) for value in circuit.values()):
             raise ValueError(f"Incomplete circuit metadata for {row['GP']}.")
@@ -325,6 +330,9 @@ class RaceContextBuilder:
             "track_abrasiveness": circuit["track_abrasiveness"],
             "average_corner_speed": circuit["average_corner_speed"],
             "race_laps": race_laps,
+            # Circuit-specific pit-stop estimate; informational, not race-time prediction.
+            "pit_lane_speed_limit": circuit["pit_lane_speed_limit"],
+            "estimated_pit_loss_seconds": circuit["estimated_pit_loss_seconds"],
             # Optional model inputs/scenario assumptions:
             "yellow_laps": yellow_laps, "sc_laps": sc_laps,
             "vsc_laps": vsc_laps, "redflag_laps": redflag_laps,

@@ -17,7 +17,8 @@ class RaceContextBuilderTests(unittest.TestCase):
 
         pd.DataFrame([{
             "GP": "Bahrain", "CircuitType": "Permanent", "TrackLength": 5.412,
-            "TrackAbrasiveness": "Medium", "AverageCornerSpeed": 180.0
+            "TrackAbrasiveness": "Medium", "AverageCornerSpeed": 180.0,
+            "PitLaneSpeedLimit": 80, "EstimatedPitLossSeconds": 22.98
         }]).to_csv(self.metadata_path, index=False)
 
         pd.DataFrame([
@@ -57,6 +58,8 @@ class RaceContextBuilderTests(unittest.TestCase):
         }
         self.assertTrue(required.issubset(context))
         self.assertEqual(context["race_laps"], 57)
+        self.assertEqual(context["pit_lane_speed_limit"], 80.0)
+        self.assertEqual(context["estimated_pit_loss_seconds"], 22.98)
         self.assertEqual(context["air_temp"], 29.5)
         self.assertEqual(context["track_temp"], 33.0)  # historical median
         self.assertEqual(context["track_temp_source"], "historical_gp_median_fallback")

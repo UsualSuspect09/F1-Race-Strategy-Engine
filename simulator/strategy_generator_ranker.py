@@ -1,12 +1,12 @@
 """V1 strategy generator and ranker.
-""" 
-import os
-import sys
 
-PROJECT_ROOT = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), "..")
-)
-sys.path.insert(0, PROJECT_ROOT)
+Install as:
+C:/Users/VANSH/Formula1/simulator/strategy_generator_ranker.py
+
+Ranking: FEASIBLE before REVIEW before INFEASIBLE, then lower population
+standard deviation of predicted stint lengths, then shorter final prediction.
+The balance score is a heuristic, not predicted race time.
+"""
 from statistics import pstdev
 from typing import Any, Callable, Dict, List, Optional, Sequence, Tuple
 
@@ -123,37 +123,80 @@ class StrategyGeneratorRanker:
                 "evaluation_result": evaluation,
             })
 
-        ranked.sort(key=lambda item: (
-            STATUS_PRIORITY[item["feasibility_status"]],
-            item["balance_score"],
-            item["final_predicted_stint_length"],
-            item["strategy_label"],
-        ))
+        # Pit-loss is reported separately. It is not folded into balance_score,
+        # because the model does not predict complete race time.
+        pit_loss_per_stop = race_context.get("estimated_pit_loss_seconds")
+        pit_speed_limit = race_context.get("pit_lane_speed_limit")
+        for item in ranked:
+            item["stop_group"] = "one_stop" if item["pit_stops"] == 1 else "two_stop"
+            item["pit_loss_per_stop_seconds"] = (
+                round(float(pit_loss_per_stop), 2) if pit_loss_per_stop is not None else None
+            )
+            item["estimated_total_pit_loss_seconds"] = (
+                round(float(pit_loss_per_stop) * item["pit_stops"], 2)
+                if pit_loss_per_stop is not None else None
+            )
+            item["pit_lane_speed_limit_kmh"] = (
+                float(pit_speed_limit) if pit_speed_limit is not None else None
+            )
+
+        # Rank independently within each stop-count group so the balance score
+        # does not inherently favour strategies with more stints.
+        groups = {}
+        for group_name, stop_count in (("one_stop", 1), ("two_stop", 2)):
+            group_items = [item for item in ranked if item["pit_stops"] == stop_count]
+            group_items.sort(key=lambda item: (
+                STATUS_PRIORITY[item["feasibility_status"]],
+                item["balance_score"],
+                item["final_predicted_stint_length"],
+                item["strategy_label"],
+            ))
+            for group_rank, item in enumerate(group_items, start=1):
+                item["group_rank"] = group_rank
+                # Backward-compatible rank field: rank within the stop-count group.
+                item["rank"] = group_rank
+            feasible_group = [x for x in group_items if x["feasibility_status"] == "FEASIBLE"]
+            review_group = [x for x in group_items if x["feasibility_status"] == "REVIEW"]
+            if feasible_group:
+                group_pool, group_fallback = feasible_group, False
+                group_note = "Returning strategies that pass the current V1 heuristic checks."
+            elif review_group:
+                group_pool, group_fallback = review_group, True
+                group_note = "No FEASIBLE strategy in this stop group; showing REVIEW candidates."
+            else:
+                group_pool, group_fallback = group_items, True
+                group_note = "No FEASIBLE or REVIEW strategy in this stop group; fallback candidates need inspection."
+            groups[group_name] = {
+                "pit_stops": stop_count,
+                "candidate_count": len(group_items),
+                "feasible_count": sum(x["feasibility_status"] == "FEASIBLE" for x in group_items),
+                "review_count": sum(x["feasibility_status"] == "REVIEW" for x in group_items),
+                "infeasible_count": sum(x["feasibility_status"] == "INFEASIBLE" for x in group_items),
+                "fallback_mode": group_fallback,
+                "recommendation_note": group_note,
+                "recommendations": group_pool[:top_n] if top_n is not None else group_pool,
+                "ranked_candidates": group_items,
+            }
+
+                # Keep a global debug list, ordered by stop group then group rank.
+        ranked.sort(key=lambda item: (item["pit_stops"], item["group_rank"]))
+
+        # Assign globally sequential ranks while preserving group_rank.
         for rank, item in enumerate(ranked, start=1):
             item["rank"] = rank
 
         feasible = [x for x in ranked if x["feasibility_status"] == "FEASIBLE"]
         review = [x for x in ranked if x["feasibility_status"] == "REVIEW"]
         infeasible = [x for x in ranked if x["feasibility_status"] == "INFEASIBLE"]
-
         if feasible:
-            pool = feasible
-            fallback_mode = False
-            note = "Returning candidates that pass the current V1 heuristic checks."
+            pool, fallback_mode = feasible, False
+            note = "Global compatibility list contains FEASIBLE candidates; use strategy_groups for separate one-stop/two-stop recommendations."
         elif review:
-            pool = review
-            fallback_mode = True
-            note = (
-                "No candidate passed the current V1 checks. These are the best REVIEW candidates; "
-                "they require inspection and are not confirmed feasible."
-            )
+            pool, fallback_mode = review, True
+            note = "No FEASIBLE candidates; returning best REVIEW candidates."
         else:
-            pool = infeasible
-            fallback_mode = True
-            note = (
-                "No candidate passed and no REVIEW candidates were available. These are fallback "
-                "suggestions; none is confirmed feasible."
-            )
+            pool, fallback_mode = infeasible, True
+            note = "None is confirmed feasible; returning best INFEASIBLE candidates."
 
         return {
             "gp_name": race_context.get("gp_name"),
@@ -164,12 +207,15 @@ class StrategyGeneratorRanker:
             "fallback_mode": fallback_mode,
             "recommendation_note": note,
             "recommendations": pool[:top_n] if top_n is not None else pool,
+            "strategy_groups": groups,
             "ranked_candidates": ranked,
             "ranking_rules": {
+                "grouping": "one-stop and two-stop strategies ranked independently",
                 "status_priority": ["FEASIBLE", "REVIEW", "INFEASIBLE"],
                 "primary_score": "population standard deviation of predicted stint lengths",
-                "primary_score_direction": "lower is better",
+                "primary_score_direction": "lower is better within each stop group",
                 "tie_breaker": "shorter predicted final stint, then strategy label",
+                "pit_loss": "reported separately; not included in balance score or a full race-time prediction",
                 "score_type": "heuristic; not predicted race time",
             },
         }

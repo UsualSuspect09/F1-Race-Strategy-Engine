@@ -95,6 +95,24 @@ def main():
         race_context=race_context,
         top_n=None,
     )
+    print("\nSTRATEGY GROUP VALIDATION")
+    print("-" * 50)
+
+    for group_name, group in result["strategy_groups"].items():
+        print(f"\nGroup: {group_name}")
+        print(f"  Candidates: {group['candidate_count']}")
+        print(f"  FEASIBLE: {group['feasible_count']}")
+        print(f"  REVIEW: {group['review_count']}")
+        print(f"  INFEASIBLE: {group['infeasible_count']}")
+
+        print("  Top recommendations:")
+        for item in group["recommendations"][:3]:
+            print(
+                f"    Group rank {item['group_rank']}: "
+                f"{item['strategy_label']} | "
+                f"{item['feasibility_status']} | "
+                f"Balance: {item['balance_score']}"
+        )
 
     expected_candidates = 20
 
