@@ -101,7 +101,7 @@ def main():
     for group_name, group in result["strategy_groups"].items():
         print(f"\nGroup: {group_name}")
         print(f"  Candidates: {group['candidate_count']}")
-        print(f"  FEASIBLE: {group['feasible_count']}")
+        print(f"  FEASIBLE: {group['feasible_count' ]}")
         print(f"  REVIEW: {group['review_count']}")
         print(f"  INFEASIBLE: {group['infeasible_count']}")
 
@@ -209,6 +209,22 @@ def main():
         print(f"  Maximum absolute gap: {item['max_absolute_gap']}")
         print(f"  Mean absolute gap: {item['mean_absolute_gap']}")
         print(f"  Lap budget valid: {item['budget_valid']}")
+
+    print("\nTOP STRATEGIES BY STOP GROUP")
+    print("-" * 65)
+
+    for group_name, group in result["strategy_groups"].items():
+        print(f"\n{group_name.upper().replace('_', '-')} STRATEGIES")
+
+    for item in group["recommendations"][:3]:
+        print(
+            f"  Group rank {item['group_rank']}: "
+            f"{item['strategy_label']} | "
+            f"{item['feasibility_status']} | "
+            f"Balance: {item['balance_score']} | "
+            f"Estimated pit loss: "
+            f"{item['estimated_total_pit_loss_seconds']} seconds"
+        )
 
     print("\n" + "=" * 65)
     print("FULL INTEGRATION TEST PASSED")
